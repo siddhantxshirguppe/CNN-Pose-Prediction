@@ -1,0 +1,2764 @@
+	Line   415: Frame_Num:0
+	Line   424: Angle: 0.7465102
+	Line   433: Camera position: (3.00, 2.00, -0.01)
+	Line   442: Camera rotation: (45.00, 270.75, 0.00)
+	Line   451: Frame_Num:1
+	Line   460: Angle: 1.248038
+	Line   469: Camera position: (3.00, 2.00, -0.02)
+	Line   478: Camera rotation: (45.00, 271.25, 0.00)
+	Line   487: Frame_Num:2
+	Line   496: Angle: 1.753904
+	Line   505: Camera position: (3.00, 2.00, -0.03)
+	Line   514: Camera rotation: (45.00, 271.75, 0.00)
+	Line   523: Frame_Num:3
+	Line   532: Angle: 2.256113
+	Line   541: Camera position: (3.00, 2.00, -0.04)
+	Line   550: Camera rotation: (45.00, 272.26, 0.00)
+	Line   559: Frame_Num:4
+	Line   568: Angle: 2.776503
+	Line   577: Camera position: (3.00, 2.00, -0.05)
+	Line   586: Camera rotation: (45.00, 272.78, 0.00)
+	Line   595: Frame_Num:5
+	Line   604: Angle: 3.280382
+	Line   613: Camera position: (3.00, 2.00, -0.06)
+	Line   622: Camera rotation: (45.00, 273.28, 0.00)
+	Line   631: Frame_Num:6
+	Line   640: Angle: 3.801173
+	Line   649: Camera position: (3.00, 2.00, -0.07)
+	Line   658: Camera rotation: (45.00, 273.80, 0.00)
+	Line   667: Frame_Num:7
+	Line   676: Angle: 4.310571
+	Line   685: Camera position: (3.00, 2.00, -0.08)
+	Line   694: Camera rotation: (45.00, 274.31, 0.00)
+	Line   703: Frame_Num:8
+	Line   712: Angle: 4.838533
+	Line   721: Camera position: (3.00, 2.00, -0.08)
+	Line   730: Camera rotation: (45.00, 274.84, 0.00)
+	Line   739: Frame_Num:9
+	Line   748: Angle: 5.339389
+	Line   757: Camera position: (3.00, 2.00, -0.09)
+	Line   766: Camera rotation: (45.00, 275.34, 0.00)
+	Line   775: Frame_Num:10
+	Line   784: Angle: 5.853237
+	Line   793: Camera position: (2.99, 2.00, -0.10)
+	Line   802: Camera rotation: (45.00, 275.85, 0.00)
+	Line   811: Frame_Num:11
+	Line   820: Angle: 6.354373
+	Line   829: Camera position: (2.99, 2.00, -0.11)
+	Line   838: Camera rotation: (45.00, 276.35, 0.00)
+	Line   847: Frame_Num:12
+	Line   856: Angle: 6.867357
+	Line   865: Camera position: (2.99, 2.00, -0.12)
+	Line   874: Camera rotation: (45.00, 276.87, 0.00)
+	Line   883: Frame_Num:13
+	Line   892: Angle: 7.369372
+	Line   901: Camera position: (2.99, 2.00, -0.13)
+	Line   910: Camera rotation: (45.00, 277.37, 0.00)
+	Line   919: Frame_Num:14
+	Line   928: Angle: 7.871778
+	Line   937: Camera position: (2.99, 2.00, -0.14)
+	Line   946: Camera rotation: (45.00, 277.87, 0.00)
+	Line   955: Frame_Num:15
+	Line   964: Angle: 8.379604
+	Line   973: Camera position: (2.99, 2.00, -0.15)
+	Line   982: Camera rotation: (45.00, 278.38, 0.00)
+	Line   991: Frame_Num:16
+	Line  1000: Angle: 8.885598
+	Line  1009: Camera position: (2.99, 2.00, -0.15)
+	Line  1018: Camera rotation: (45.00, 278.89, 0.00)
+	Line  1027: Frame_Num:17
+	Line  1036: Angle: 9.407258
+	Line  1045: Camera position: (2.99, 2.00, -0.16)
+	Line  1054: Camera rotation: (45.00, 279.41, 0.00)
+	Line  1063: Frame_Num:18
+	Line  1072: Angle: 9.933552
+	Line  1081: Camera position: (2.99, 2.00, -0.17)
+	Line  1090: Camera rotation: (45.00, 279.93, 0.00)
+	Line  1099: Frame_Num:19
+	Line  1108: Angle: 10.44165
+	Line  1117: Camera position: (2.98, 2.00, -0.18)
+	Line  1126: Camera rotation: (45.00, 280.44, 0.00)
+	Line  1135: Frame_Num:20
+	Line  1144: Angle: 10.95637
+	Line  1153: Camera position: (2.98, 2.00, -0.19)
+	Line  1162: Camera rotation: (45.00, 280.96, 0.00)
+	Line  1171: Frame_Num:21
+	Line  1180: Angle: 11.45963
+	Line  1189: Camera position: (2.98, 2.00, -0.20)
+	Line  1198: Camera rotation: (45.00, 281.46, 0.00)
+	Line  1207: Frame_Num:22
+	Line  1216: Angle: 11.96278
+	Line  1225: Camera position: (2.98, 2.00, -0.21)
+	Line  1234: Camera rotation: (45.00, 281.96, 0.00)
+	Line  1243: Frame_Num:23
+	Line  1252: Angle: 12.47814
+	Line  1261: Camera position: (2.98, 2.00, -0.22)
+	Line  1270: Camera rotation: (45.00, 282.48, 0.00)
+	Line  1279: Frame_Num:24
+	Line  1288: Angle: 13.0009
+	Line  1297: Camera position: (2.97, 2.00, -0.22)
+	Line  1306: Camera rotation: (45.00, 283.00, 0.00)
+	Line  1315: Frame_Num:25
+	Line  1324: Angle: 13.50775
+	Line  1333: Camera position: (2.97, 2.00, -0.23)
+	Line  1342: Camera rotation: (45.00, 283.51, 0.00)
+	Line  1351: Frame_Num:26
+	Line  1360: Angle: 14.03625
+	Line  1369: Camera position: (2.97, 2.00, -0.24)
+	Line  1378: Camera rotation: (45.00, 284.04, 0.00)
+	Line  1387: Frame_Num:27
+	Line  1396: Angle: 14.54065
+	Line  1405: Camera position: (2.97, 2.00, -0.25)
+	Line  1414: Camera rotation: (45.00, 284.54, 0.00)
+	Line  1423: Frame_Num:28
+	Line  1432: Angle: 15.04764
+	Line  1441: Camera position: (2.97, 2.00, -0.26)
+	Line  1450: Camera rotation: (45.00, 285.05, 0.00)
+	Line  1459: Frame_Num:29
+	Line  1468: Angle: 15.63912
+	Line  1477: Camera position: (2.96, 2.00, -0.27)
+	Line  1486: Camera rotation: (45.00, 285.64, 0.00)
+	Line  1495: Frame_Num:30
+	Line  1504: Angle: 16.30767
+	Line  1513: Camera position: (2.96, 2.00, -0.28)
+	Line  1522: Camera rotation: (45.00, 286.31, 0.00)
+	Line  1531: Frame_Num:31
+	Line  1540: Angle: 16.82981
+	Line  1549: Camera position: (2.96, 2.00, -0.29)
+	Line  1558: Camera rotation: (45.00, 286.83, 0.00)
+	Line  1567: Frame_Num:32
+	Line  1576: Angle: 17.33943
+	Line  1585: Camera position: (2.95, 2.00, -0.30)
+	Line  1594: Camera rotation: (45.00, 287.34, 0.00)
+	Line  1603: Frame_Num:33
+	Line  1612: Angle: 17.84385
+	Line  1621: Camera position: (2.95, 2.00, -0.31)
+	Line  1630: Camera rotation: (45.00, 287.84, 0.00)
+	Line  1639: Frame_Num:34
+	Line  1648: Angle: 18.39027
+	Line  1657: Camera position: (2.95, 2.00, -0.32)
+	Line  1666: Camera rotation: (45.00, 288.39, 0.00)
+	Line  1675: Frame_Num:35
+	Line  1684: Angle: 18.9057
+	Line  1693: Camera position: (2.95, 2.00, -0.32)
+	Line  1702: Camera rotation: (45.00, 288.91, 0.00)
+	Line  1711: Frame_Num:36
+	Line  1720: Angle: 19.45234
+	Line  1729: Camera position: (2.94, 2.00, -0.33)
+	Line  1738: Camera rotation: (45.00, 289.45, 0.00)
+	Line  1747: Frame_Num:37
+	Line  1756: Angle: 19.97146
+	Line  1765: Camera position: (2.94, 2.00, -0.34)
+	Line  1774: Camera rotation: (45.00, 289.97, 0.00)
+	Line  1783: Frame_Num:38
+	Line  1792: Angle: 20.48353
+	Line  1801: Camera position: (2.94, 2.00, -0.35)
+	Line  1810: Camera rotation: (45.00, 290.48, 0.00)
+	Line  1819: Frame_Num:39
+	Line  1828: Angle: 20.98361
+	Line  1837: Camera position: (2.93, 2.00, -0.36)
+	Line  1846: Camera rotation: (45.00, 290.98, 0.00)
+	Line  1855: Frame_Num:40
+	Line  1864: Angle: 21.4997
+	Line  1873: Camera position: (2.93, 2.00, -0.37)
+	Line  1882: Camera rotation: (45.00, 291.50, 0.00)
+	Line  1891: Frame_Num:41
+	Line  1900: Angle: 22.02176
+	Line  1909: Camera position: (2.93, 2.00, -0.37)
+	Line  1918: Camera rotation: (45.00, 292.02, 0.00)
+	Line  1927: Frame_Num:42
+	Line  1936: Angle: 22.52432
+	Line  1945: Camera position: (2.92, 2.00, -0.38)
+	Line  1954: Camera rotation: (45.00, 292.52, 0.00)
+	Line  1963: Frame_Num:43
+	Line  1972: Angle: 23.03383
+	Line  1981: Camera position: (2.92, 2.00, -0.39)
+	Line  1990: Camera rotation: (45.00, 293.03, 0.00)
+	Line  1999: Frame_Num:44
+	Line  2008: Angle: 23.53891
+	Line  2017: Camera position: (2.92, 2.00, -0.40)
+	Line  2026: Camera rotation: (45.00, 293.54, 0.00)
+	Line  2035: Frame_Num:45
+	Line  2044: Angle: 24.04667
+	Line  2053: Camera position: (2.91, 2.00, -0.41)
+	Line  2062: Camera rotation: (45.00, 294.05, 0.00)
+	Line  2071: Frame_Num:46
+	Line  2080: Angle: 24.56093
+	Line  2089: Camera position: (2.91, 2.00, -0.42)
+	Line  2098: Camera rotation: (45.00, 294.56, 0.00)
+	Line  2107: Frame_Num:47
+	Line  2116: Angle: 25.18606
+	Line  2125: Camera position: (2.90, 2.00, -0.43)
+	Line  2134: Camera rotation: (45.00, 295.19, 0.00)
+	Line  2143: Frame_Num:48
+	Line  2152: Angle: 25.69649
+	Line  2161: Camera position: (2.90, 2.00, -0.43)
+	Line  2170: Camera rotation: (45.00, 295.70, 0.00)
+	Line  2179: Frame_Num:49
+	Line  2188: Angle: 26.21661
+	Line  2197: Camera position: (2.90, 2.00, -0.44)
+	Line  2206: Camera rotation: (45.00, 296.22, 0.00)
+	Line  2215: Frame_Num:50
+	Line  2224: Angle: 26.73042
+	Line  2233: Camera position: (2.89, 2.00, -0.45)
+	Line  2242: Camera rotation: (45.00, 296.73, 0.00)
+	Line  2251: Frame_Num:51
+	Line  2260: Angle: 27.2369
+	Line  2269: Camera position: (2.89, 2.00, -0.46)
+	Line  2278: Camera rotation: (45.00, 297.24, 0.00)
+	Line  2287: Frame_Num:52
+	Line  2296: Angle: 27.74458
+	Line  2305: Camera position: (2.89, 2.00, -0.47)
+	Line  2314: Camera rotation: (45.00, 297.74, 0.00)
+	Line  2323: Frame_Num:53
+	Line  2332: Angle: 28.258
+	Line  2341: Camera position: (2.88, 2.00, -0.47)
+	Line  2350: Camera rotation: (45.00, 298.26, 0.00)
+	Line  2359: Frame_Num:54
+	Line  2368: Angle: 28.77318
+	Line  2377: Camera position: (2.88, 2.00, -0.48)
+	Line  2386: Camera rotation: (45.00, 298.77, 0.00)
+	Line  2395: Frame_Num:55
+	Line  2404: Angle: 29.33374
+	Line  2413: Camera position: (2.87, 2.00, -0.49)
+	Line  2422: Camera rotation: (45.00, 299.33, 0.00)
+	Line  2431: Frame_Num:56
+	Line  2440: Angle: 29.87106
+	Line  2449: Camera position: (2.87, 2.00, -0.50)
+	Line  2458: Camera rotation: (45.00, 299.87, 0.00)
+	Line  2467: Frame_Num:57
+	Line  2476: Angle: 30.41882
+	Line  2485: Camera position: (2.86, 2.00, -0.51)
+	Line  2494: Camera rotation: (45.00, 300.42, 0.00)
+	Line  2503: Frame_Num:58
+	Line  2512: Angle: 31.04936
+	Line  2521: Camera position: (2.86, 2.00, -0.52)
+	Line  2530: Camera rotation: (45.00, 301.05, 0.00)
+	Line  2539: Frame_Num:59
+	Line  2548: Angle: 31.56606
+	Line  2557: Camera position: (2.85, 2.00, -0.52)
+	Line  2566: Camera rotation: (45.00, 301.57, 0.00)
+	Line  2575: Frame_Num:60
+	Line  2584: Angle: 32.06936
+	Line  2593: Camera position: (2.85, 2.00, -0.53)
+	Line  2602: Camera rotation: (45.00, 302.07, 0.00)
+	Line  2611: Frame_Num:61
+	Line  2620: Angle: 32.58017
+	Line  2629: Camera position: (2.84, 2.00, -0.54)
+	Line  2638: Camera rotation: (45.00, 302.58, 0.00)
+	Line  2647: Frame_Num:62
+	Line  2656: Angle: 33.08972
+	Line  2665: Camera position: (2.84, 2.00, -0.55)
+	Line  2674: Camera rotation: (45.00, 303.09, 0.00)
+	Line  2683: Frame_Num:63
+	Line  2692: Angle: 33.60792
+	Line  2701: Camera position: (2.83, 2.00, -0.55)
+	Line  2710: Camera rotation: (45.00, 303.61, 0.00)
+	Line  2719: Frame_Num:64
+	Line  2728: Angle: 34.14211
+	Line  2737: Camera position: (2.83, 2.00, -0.56)
+	Line  2746: Camera rotation: (45.00, 304.14, 0.00)
+	Line  2755: Frame_Num:65
+	Line  2764: Angle: 34.64671
+	Line  2773: Camera position: (2.82, 2.00, -0.57)
+	Line  2782: Camera rotation: (45.00, 304.65, 0.00)
+	Line  2791: Frame_Num:66
+	Line  2800: Angle: 35.19038
+	Line  2809: Camera position: (2.82, 2.00, -0.58)
+	Line  2818: Camera rotation: (45.00, 305.19, 0.00)
+	Line  2827: Frame_Num:67
+	Line  2836: Angle: 35.69831
+	Line  2845: Camera position: (2.81, 2.00, -0.58)
+	Line  2854: Camera rotation: (45.00, 305.70, 0.00)
+	Line  2863: Frame_Num:68
+	Line  2872: Angle: 36.22961
+	Line  2881: Camera position: (2.81, 2.00, -0.59)
+	Line  2890: Camera rotation: (45.00, 306.23, 0.00)
+	Line  2899: Frame_Num:69
+	Line  2908: Angle: 36.73347
+	Line  2917: Camera position: (2.80, 2.00, -0.60)
+	Line  2926: Camera rotation: (45.00, 306.73, 0.00)
+	Line  2935: Frame_Num:70
+	Line  2944: Angle: 37.24231
+	Line  2953: Camera position: (2.80, 2.00, -0.61)
+	Line  2962: Camera rotation: (45.00, 307.24, 0.00)
+	Line  2971: Frame_Num:71
+	Line  2980: Angle: 37.75407
+	Line  2989: Camera position: (2.79, 2.00, -0.61)
+	Line  2998: Camera rotation: (45.00, 307.75, 0.00)
+	Line  3007: Frame_Num:72
+	Line  3016: Angle: 38.26852
+	Line  3025: Camera position: (2.79, 2.00, -0.62)
+	Line  3034: Camera rotation: (45.00, 308.27, 0.00)
+	Line  3043: Frame_Num:73
+	Line  3052: Angle: 38.77406
+	Line  3061: Camera position: (2.78, 2.00, -0.63)
+	Line  3070: Camera rotation: (45.00, 308.77, 0.00)
+	Line  3079: Frame_Num:74
+	Line  3088: Angle: 39.30395
+	Line  3097: Camera position: (2.77, 2.00, -0.63)
+	Line  3106: Camera rotation: (45.00, 309.30, 0.00)
+	Line  3115: Frame_Num:75
+	Line  3124: Angle: 39.80825
+	Line  3133: Camera position: (2.77, 2.00, -0.64)
+	Line  3142: Camera rotation: (45.00, 309.81, 0.00)
+	Line  3151: Frame_Num:76
+	Line  3160: Angle: 40.32714
+	Line  3169: Camera position: (2.76, 2.00, -0.65)
+	Line  3178: Camera rotation: (45.00, 310.33, 0.00)
+	Line  3187: Frame_Num:77
+	Line  3196: Angle: 40.8508
+	Line  3205: Camera position: (2.76, 2.00, -0.65)
+	Line  3214: Camera rotation: (45.00, 310.85, 0.00)
+	Line  3223: Frame_Num:78
+	Line  3232: Angle: 41.37582
+	Line  3241: Camera position: (2.75, 2.00, -0.66)
+	Line  3250: Camera rotation: (45.00, 311.38, 0.00)
+	Line  3259: Frame_Num:79
+	Line  3268: Angle: 41.87634
+	Line  3277: Camera position: (2.74, 2.00, -0.67)
+	Line  3286: Camera rotation: (45.00, 311.88, 0.00)
+	Line  3295: Frame_Num:80
+	Line  3304: Angle: 42.38929
+	Line  3313: Camera position: (2.74, 2.00, -0.67)
+	Line  3322: Camera rotation: (45.00, 312.39, 0.00)
+	Line  3331: Frame_Num:81
+	Line  3340: Angle: 42.90857
+	Line  3349: Camera position: (2.73, 2.00, -0.68)
+	Line  3358: Camera rotation: (45.00, 312.91, 0.00)
+	Line  3367: Frame_Num:82
+	Line  3376: Angle: 43.43725
+	Line  3385: Camera position: (2.73, 2.00, -0.69)
+	Line  3394: Camera rotation: (45.00, 313.44, 0.00)
+	Line  3403: Frame_Num:83
+	Line  3412: Angle: 43.9496
+	Line  3421: Camera position: (2.72, 2.00, -0.69)
+	Line  3430: Camera rotation: (45.00, 313.95, 0.00)
+	Line  3439: Frame_Num:84
+	Line  3448: Angle: 44.46573
+	Line  3457: Camera position: (2.71, 2.00, -0.70)
+	Line  3466: Camera rotation: (45.00, 314.47, 0.00)
+	Line  3475: Frame_Num:85
+	Line  3484: Angle: 45.01245
+	Line  3493: Camera position: (2.71, 2.00, -0.71)
+	Line  3502: Camera rotation: (45.00, 315.01, 0.00)
+	Line  3511: Frame_Num:86
+	Line  3520: Angle: 45.52143
+	Line  3529: Camera position: (2.70, 2.00, -0.71)
+	Line  3538: Camera rotation: (45.00, 315.52, 0.00)
+	Line  3547: Frame_Num:87
+	Line  3556: Angle: 46.03333
+	Line  3565: Camera position: (2.69, 2.00, -0.72)
+	Line  3574: Camera rotation: (45.00, 316.03, 0.00)
+	Line  3583: Frame_Num:88
+	Line  3592: Angle: 46.56202
+	Line  3601: Camera position: (2.69, 2.00, -0.73)
+	Line  3610: Camera rotation: (45.00, 316.56, 0.00)
+	Line  3619: Frame_Num:89
+	Line  3628: Angle: 47.0658
+	Line  3637: Camera position: (2.68, 2.00, -0.73)
+	Line  3646: Camera rotation: (45.00, 317.07, 0.00)
+	Line  3655: Frame_Num:90
+	Line  3664: Angle: 47.58539
+	Line  3673: Camera position: (2.67, 2.00, -0.74)
+	Line  3682: Camera rotation: (45.00, 317.59, 0.00)
+	Line  3691: Frame_Num:91
+	Line  3700: Angle: 48.09792
+	Line  3709: Camera position: (2.67, 2.00, -0.74)
+	Line  3718: Camera rotation: (45.00, 318.10, 0.00)
+	Line  3727: Frame_Num:92
+	Line  3736: Angle: 48.60886
+	Line  3745: Camera position: (2.66, 2.00, -0.75)
+	Line  3754: Camera rotation: (45.00, 318.61, 0.00)
+	Line  3763: Frame_Num:93
+	Line  3772: Angle: 49.12459
+	Line  3781: Camera position: (2.65, 2.00, -0.76)
+	Line  3790: Camera rotation: (45.00, 319.12, 0.00)
+	Line  3799: Frame_Num:94
+	Line  3808: Angle: 49.65979
+	Line  3817: Camera position: (2.65, 2.00, -0.76)
+	Line  3826: Camera rotation: (45.00, 319.66, 0.00)
+	Line  3835: Frame_Num:95
+	Line  3844: Angle: 50.16027
+	Line  3853: Camera position: (2.64, 2.00, -0.77)
+	Line  3862: Camera rotation: (45.00, 320.16, 0.00)
+	Line  3871: Frame_Num:96
+	Line  3880: Angle: 50.69207
+	Line  3889: Camera position: (2.63, 2.00, -0.77)
+	Line  3898: Camera rotation: (45.00, 320.69, 0.00)
+	Line  3907: Frame_Num:97
+	Line  3916: Angle: 51.22611
+	Line  3925: Camera position: (2.63, 2.00, -0.78)
+	Line  3934: Camera rotation: (45.00, 321.23, 0.00)
+	Line  3943: Frame_Num:98
+	Line  3952: Angle: 51.74225
+	Line  3961: Camera position: (2.62, 2.00, -0.79)
+	Line  3970: Camera rotation: (45.00, 321.74, 0.00)
+	Line  3979: Frame_Num:99
+	Line  3988: Angle: 52.27196
+	Line  3997: Camera position: (2.61, 2.00, -0.79)
+	Line  4006: Camera rotation: (45.00, 322.27, 0.00)
+	Line  4015: Frame_Num:100
+	Line  4024: Angle: 52.80987
+	Line  4033: Camera position: (2.60, 2.00, -0.80)
+	Line  4042: Camera rotation: (45.00, 322.81, 0.00)
+	Line  4051: Frame_Num:101
+	Line  4060: Angle: 53.31785
+	Line  4069: Camera position: (2.60, 2.00, -0.80)
+	Line  4078: Camera rotation: (45.00, 323.32, 0.00)
+	Line  4087: Frame_Num:102
+	Line  4096: Angle: 53.8387
+	Line  4105: Camera position: (2.59, 2.00, -0.81)
+	Line  4114: Camera rotation: (45.00, 323.84, 0.00)
+	Line  4123: Frame_Num:103
+	Line  4132: Angle: 54.37847
+	Line  4141: Camera position: (2.58, 2.00, -0.81)
+	Line  4150: Camera rotation: (45.00, 324.38, 0.00)
+	Line  4159: Frame_Num:104
+	Line  4168: Angle: 54.89862
+	Line  4177: Camera position: (2.58, 2.00, -0.82)
+	Line  4186: Camera rotation: (45.00, 324.90, 0.00)
+	Line  4195: Frame_Num:105
+	Line  4204: Angle: 55.40949
+	Line  4213: Camera position: (2.57, 2.00, -0.82)
+	Line  4222: Camera rotation: (45.00, 325.41, 0.00)
+	Line  4231: Frame_Num:106
+	Line  4240: Angle: 56.08781
+	Line  4249: Camera position: (2.56, 2.00, -0.83)
+	Line  4258: Camera rotation: (45.00, 326.09, 0.00)
+	Line  4267: Frame_Num:107
+	Line  4276: Angle: 56.58952
+	Line  4285: Camera position: (2.55, 2.00, -0.83)
+	Line  4294: Camera rotation: (45.00, 326.59, 0.00)
+	Line  4303: Frame_Num:108
+	Line  4312: Angle: 57.11308
+	Line  4321: Camera position: (2.54, 2.00, -0.84)
+	Line  4330: Camera rotation: (45.00, 327.11, 0.00)
+	Line  4339: Frame_Num:109
+	Line  4348: Angle: 57.64231
+	Line  4357: Camera position: (2.54, 2.00, -0.84)
+	Line  4366: Camera rotation: (45.00, 327.64, 0.00)
+	Line  4375: Frame_Num:110
+	Line  4384: Angle: 58.14555
+	Line  4393: Camera position: (2.53, 2.00, -0.85)
+	Line  4402: Camera rotation: (45.00, 328.15, 0.00)
+	Line  4411: Frame_Num:111
+	Line  4420: Angle: 58.64859
+	Line  4429: Camera position: (2.52, 2.00, -0.85)
+	Line  4438: Camera rotation: (45.00, 328.65, 0.00)
+	Line  4447: Frame_Num:112
+	Line  4456: Angle: 59.17232
+	Line  4465: Camera position: (2.51, 2.00, -0.86)
+	Line  4474: Camera rotation: (45.00, 329.17, 0.00)
+	Line  4483: Frame_Num:113
+	Line  4492: Angle: 59.68783
+	Line  4501: Camera position: (2.50, 2.00, -0.86)
+	Line  4510: Camera rotation: (45.00, 329.69, 0.00)
+	Line  4519: Frame_Num:114
+	Line  4528: Angle: 60.22108
+	Line  4537: Camera position: (2.50, 2.00, -0.87)
+	Line  4546: Camera rotation: (45.00, 330.22, 0.00)
+	Line  4555: Frame_Num:115
+	Line  4564: Angle: 60.73558
+	Line  4573: Camera position: (2.49, 2.00, -0.87)
+	Line  4582: Camera rotation: (45.00, 330.74, 0.00)
+	Line  4591: Frame_Num:116
+	Line  4600: Angle: 61.26207
+	Line  4609: Camera position: (2.48, 2.00, -0.88)
+	Line  4618: Camera rotation: (45.00, 331.26, 0.00)
+	Line  4627: Frame_Num:117
+	Line  4636: Angle: 61.76856
+	Line  4645: Camera position: (2.47, 2.00, -0.88)
+	Line  4654: Camera rotation: (45.00, 331.77, 0.00)
+	Line  4663: Frame_Num:118
+	Line  4672: Angle: 62.29046
+	Line  4681: Camera position: (2.46, 2.00, -0.89)
+	Line  4690: Camera rotation: (45.00, 332.29, 0.00)
+	Line  4699: Frame_Num:119
+	Line  4708: Angle: 62.81449
+	Line  4717: Camera position: (2.46, 2.00, -0.89)
+	Line  4726: Camera rotation: (45.00, 332.81, 0.00)
+	Line  4735: Frame_Num:120
+	Line  4744: Angle: 63.33025
+	Line  4753: Camera position: (2.45, 2.00, -0.89)
+	Line  4762: Camera rotation: (45.00, 333.33, 0.00)
+	Line  4771: Frame_Num:121
+	Line  4780: Angle: 63.83485
+	Line  4789: Camera position: (2.44, 2.00, -0.90)
+	Line  4798: Camera rotation: (45.00, 333.83, 0.00)
+	Line  4807: Frame_Num:122
+	Line  4816: Angle: 64.33536
+	Line  4825: Camera position: (2.43, 2.00, -0.90)
+	Line  4834: Camera rotation: (45.00, 334.34, 0.00)
+	Line  4843: Frame_Num:123
+	Line  4852: Angle: 64.85042
+	Line  4861: Camera position: (2.42, 2.00, -0.91)
+	Line  4870: Camera rotation: (45.00, 334.85, 0.00)
+	Line  4879: Frame_Num:124
+	Line  4888: Angle: 65.36088
+	Line  4897: Camera position: (2.42, 2.00, -0.91)
+	Line  4906: Camera rotation: (45.00, 335.36, 0.00)
+	Line  4915: Frame_Num:125
+	Line  4924: Angle: 65.86968
+	Line  4933: Camera position: (2.41, 2.00, -0.91)
+	Line  4942: Camera rotation: (45.00, 335.87, 0.00)
+	Line  4951: Frame_Num:126
+	Line  4960: Angle: 66.39642
+	Line  4969: Camera position: (2.40, 2.00, -0.92)
+	Line  4978: Camera rotation: (45.00, 336.40, 0.00)
+	Line  4987: Frame_Num:127
+	Line  4996: Angle: 66.9183
+	Line  5005: Camera position: (2.39, 2.00, -0.92)
+	Line  5014: Camera rotation: (45.00, 336.92, 0.00)
+	Line  5023: Frame_Num:128
+	Line  5032: Angle: 67.43726
+	Line  5041: Camera position: (2.38, 2.00, -0.92)
+	Line  5050: Camera rotation: (45.00, 337.44, 0.00)
+	Line  5059: Frame_Num:129
+	Line  5068: Angle: 67.97676
+	Line  5077: Camera position: (2.37, 2.00, -0.93)
+	Line  5086: Camera rotation: (45.00, 337.98, 0.00)
+	Line  5095: Frame_Num:130
+	Line  5104: Angle: 68.48405
+	Line  5113: Camera position: (2.37, 2.00, -0.93)
+	Line  5122: Camera rotation: (45.00, 338.48, 0.00)
+	Line  5131: Frame_Num:131
+	Line  5140: Angle: 68.99334
+	Line  5149: Camera position: (2.36, 2.00, -0.93)
+	Line  5158: Camera rotation: (45.00, 338.99, 0.00)
+	Line  5167: Frame_Num:132
+	Line  5176: Angle: 69.49365
+	Line  5185: Camera position: (2.35, 2.00, -0.94)
+	Line  5194: Camera rotation: (45.00, 339.49, 0.00)
+	Line  5203: Frame_Num:133
+	Line  5212: Angle: 70.00246
+	Line  5221: Camera position: (2.34, 2.00, -0.94)
+	Line  5230: Camera rotation: (45.00, 340.00, 0.00)
+	Line  5239: Frame_Num:134
+	Line  5248: Angle: 70.54613
+	Line  5257: Camera position: (2.33, 2.00, -0.94)
+	Line  5266: Camera rotation: (45.00, 340.55, 0.00)
+	Line  5275: Frame_Num:135
+	Line  5284: Angle: 71.04802
+	Line  5293: Camera position: (2.32, 2.00, -0.95)
+	Line  5302: Camera rotation: (45.00, 341.05, 0.00)
+	Line  5311: Frame_Num:136
+	Line  5320: Angle: 71.58126
+	Line  5329: Camera position: (2.32, 2.00, -0.95)
+	Line  5338: Camera rotation: (45.00, 341.58, 0.00)
+	Line  5347: Frame_Num:137
+	Line  5356: Angle: 72.0834
+	Line  5365: Camera position: (2.31, 2.00, -0.95)
+	Line  5374: Camera rotation: (45.00, 342.08, 0.00)
+	Line  5383: Frame_Num:138
+	Line  5392: Angle: 72.60108
+	Line  5401: Camera position: (2.30, 2.00, -0.95)
+	Line  5410: Camera rotation: (45.00, 342.60, 0.00)
+	Line  5419: Frame_Num:139
+	Line  5428: Angle: 73.1077
+	Line  5437: Camera position: (2.29, 2.00, -0.96)
+	Line  5446: Camera rotation: (45.00, 343.11, 0.00)
+	Line  5455: Frame_Num:140
+	Line  5464: Angle: 73.61591
+	Line  5473: Camera position: (2.28, 2.00, -0.96)
+	Line  5482: Camera rotation: (45.00, 343.62, 0.00)
+	Line  5491: Frame_Num:141
+	Line  5500: Angle: 74.12019
+	Line  5509: Camera position: (2.27, 2.00, -0.96)
+	Line  5518: Camera rotation: (45.00, 344.12, 0.00)
+	Line  5527: Frame_Num:142
+	Line  5536: Angle: 74.62648
+	Line  5545: Camera position: (2.27, 2.00, -0.96)
+	Line  5554: Camera rotation: (45.00, 344.63, 0.00)
+	Line  5563: Frame_Num:143
+	Line  5572: Angle: 75.14023
+	Line  5581: Camera position: (2.26, 2.00, -0.97)
+	Line  5590: Camera rotation: (45.00, 345.14, 0.00)
+	Line  5599: Frame_Num:144
+	Line  5608: Angle: 75.64149
+	Line  5617: Camera position: (2.25, 2.00, -0.97)
+	Line  5626: Camera rotation: (45.00, 345.64, 0.00)
+	Line  5635: Frame_Num:145
+	Line  5644: Angle: 76.15527
+	Line  5653: Camera position: (2.24, 2.00, -0.97)
+	Line  5662: Camera rotation: (45.00, 346.16, 0.00)
+	Line  5671: Frame_Num:146
+	Line  5680: Angle: 76.66488
+	Line  5689: Camera position: (2.23, 2.00, -0.97)
+	Line  5698: Camera rotation: (45.00, 346.66, 0.00)
+	Line  5707: Frame_Num:147
+	Line  5716: Angle: 77.18327
+	Line  5725: Camera position: (2.22, 2.00, -0.98)
+	Line  5734: Camera rotation: (45.00, 347.18, 0.00)
+	Line  5743: Frame_Num:148
+	Line  5752: Angle: 77.7075
+	Line  5761: Camera position: (2.21, 2.00, -0.98)
+	Line  5770: Camera rotation: (45.00, 347.71, 0.00)
+	Line  5779: Frame_Num:149
+	Line  5788: Angle: 78.23363
+	Line  5797: Camera position: (2.20, 2.00, -0.98)
+	Line  5806: Camera rotation: (45.00, 348.23, 0.00)
+	Line  5815: Frame_Num:150
+	Line  5824: Angle: 78.77661
+	Line  5833: Camera position: (2.19, 2.00, -0.98)
+	Line  5842: Camera rotation: (45.00, 348.78, 0.00)
+	Line  5851: Frame_Num:151
+	Line  5860: Angle: 79.28687
+	Line  5869: Camera position: (2.19, 2.00, -0.98)
+	Line  5878: Camera rotation: (45.00, 349.29, 0.00)
+	Line  5887: Frame_Num:152
+	Line  5896: Angle: 79.78735
+	Line  5905: Camera position: (2.18, 2.00, -0.98)
+	Line  5914: Camera rotation: (45.00, 349.79, 0.00)
+	Line  5923: Frame_Num:153
+	Line  5932: Angle: 80.31036
+	Line  5941: Camera position: (2.17, 2.00, -0.99)
+	Line  5950: Camera rotation: (45.00, 350.31, 0.00)
+	Line  5959: Frame_Num:154
+	Line  5968: Angle: 80.84492
+	Line  5977: Camera position: (2.16, 2.00, -0.99)
+	Line  5986: Camera rotation: (45.00, 350.84, 0.00)
+	Line  5995: Frame_Num:155
+	Line  6004: Angle: 81.36061
+	Line  6013: Camera position: (2.15, 2.00, -0.99)
+	Line  6022: Camera rotation: (45.00, 351.36, 0.00)
+	Line  6031: Frame_Num:156
+	Line  6040: Angle: 81.87305
+	Line  6049: Camera position: (2.14, 2.00, -0.99)
+	Line  6058: Camera rotation: (45.00, 351.87, 0.00)
+	Line  6067: Frame_Num:157
+	Line  6076: Angle: 82.38554
+	Line  6085: Camera position: (2.13, 2.00, -0.99)
+	Line  6094: Camera rotation: (45.00, 352.39, 0.00)
+	Line  6103: Frame_Num:158
+	Line  6112: Angle: 82.92092
+	Line  6121: Camera position: (2.12, 2.00, -0.99)
+	Line  6130: Camera rotation: (45.00, 352.92, 0.00)
+	Line  6139: Frame_Num:159
+	Line  6148: Angle: 83.45715
+	Line  6157: Camera position: (2.11, 2.00, -0.99)
+	Line  6166: Camera rotation: (45.00, 353.46, 0.00)
+	Line  6175: Frame_Num:160
+	Line  6184: Angle: 83.96698
+	Line  6193: Camera position: (2.11, 2.00, -0.99)
+	Line  6202: Camera rotation: (45.00, 353.97, 0.00)
+	Line  6211: Frame_Num:161
+	Line  6220: Angle: 84.47143
+	Line  6229: Camera position: (2.10, 2.00, -1.00)
+	Line  6238: Camera rotation: (45.00, 354.47, 0.00)
+	Line  6247: Frame_Num:162
+	Line  6256: Angle: 84.98943
+	Line  6265: Camera position: (2.09, 2.00, -1.00)
+	Line  6274: Camera rotation: (45.00, 354.99, 0.00)
+	Line  6283: Frame_Num:163
+	Line  6292: Angle: 85.50414
+	Line  6301: Camera position: (2.08, 2.00, -1.00)
+	Line  6310: Camera rotation: (45.00, 355.50, 0.00)
+	Line  6319: Frame_Num:164
+	Line  6328: Angle: 86.02734
+	Line  6337: Camera position: (2.07, 2.00, -1.00)
+	Line  6346: Camera rotation: (45.00, 356.03, 0.00)
+	Line  6355: Frame_Num:165
+	Line  6364: Angle: 86.54095
+	Line  6373: Camera position: (2.06, 2.00, -1.00)
+	Line  6382: Camera rotation: (45.00, 356.54, 0.00)
+	Line  6391: Frame_Num:166
+	Line  6400: Angle: 87.08304
+	Line  6409: Camera position: (2.05, 2.00, -1.00)
+	Line  6418: Camera rotation: (45.00, 357.08, 0.00)
+	Line  6427: Frame_Num:167
+	Line  6436: Angle: 87.6161
+	Line  6445: Camera position: (2.04, 2.00, -1.00)
+	Line  6454: Camera rotation: (45.00, 357.62, 0.00)
+	Line  6463: Frame_Num:168
+	Line  6472: Angle: 88.14179
+	Line  6481: Camera position: (2.03, 2.00, -1.00)
+	Line  6490: Camera rotation: (45.00, 358.14, 0.00)
+	Line  6499: Frame_Num:169
+	Line  6508: Angle: 88.64847
+	Line  6517: Camera position: (2.02, 2.00, -1.00)
+	Line  6526: Camera rotation: (45.00, 358.65, 0.00)
+	Line  6535: Frame_Num:170
+	Line  6544: Angle: 89.15172
+	Line  6553: Camera position: (2.01, 2.00, -1.00)
+	Line  6562: Camera rotation: (45.00, 359.15, 0.00)
+	Line  6571: Frame_Num:171
+	Line  6580: Angle: 89.66118
+	Line  6589: Camera position: (2.01, 2.00, -1.00)
+	Line  6598: Camera rotation: (45.00, 359.66, 0.00)
+	Line  6607: Frame_Num:172
+	Line  6616: Angle: 90.16637
+	Line  6625: Camera position: (2.00, 2.00, -1.00)
+	Line  6634: Camera rotation: (45.00, 0.17, 0.00)
+	Line  6643: Frame_Num:173
+	Line  6652: Angle: 90.673
+	Line  6661: Camera position: (1.99, 2.00, -1.00)
+	Line  6670: Camera rotation: (45.00, 0.67, 0.00)
+	Line  6679: Frame_Num:174
+	Line  6688: Angle: 91.18654
+	Line  6697: Camera position: (1.98, 2.00, -1.00)
+	Line  6706: Camera rotation: (45.00, 1.19, 0.00)
+	Line  6715: Frame_Num:175
+	Line  6724: Angle: 91.70019
+	Line  6733: Camera position: (1.97, 2.00, -1.00)
+	Line  6742: Camera rotation: (45.00, 1.70, 0.00)
+	Line  6751: Frame_Num:176
+	Line  6760: Angle: 92.22992
+	Line  6769: Camera position: (1.96, 2.00, -1.00)
+	Line  6778: Camera rotation: (45.00, 2.23, 0.00)
+	Line  6787: Frame_Num:177
+	Line  6796: Angle: 92.77792
+	Line  6805: Camera position: (1.95, 2.00, -1.00)
+	Line  6814: Camera rotation: (45.00, 2.78, 0.00)
+	Line  6823: Frame_Num:178
+	Line  6832: Angle: 93.30871
+	Line  6841: Camera position: (1.94, 2.00, -1.00)
+	Line  6850: Camera rotation: (45.00, 3.31, 0.00)
+	Line  6859: Frame_Num:179
+	Line  6868: Angle: 93.86373
+	Line  6877: Camera position: (1.93, 2.00, -1.00)
+	Line  6886: Camera rotation: (45.00, 3.86, 0.00)
+	Line  6895: Frame_Num:180
+	Line  6904: Angle: 94.37607
+	Line  6913: Camera position: (1.92, 2.00, -1.00)
+	Line  6922: Camera rotation: (45.00, 4.38, 0.00)
+	Line  6931: Frame_Num:181
+	Line  6940: Angle: 94.88635
+	Line  6949: Camera position: (1.91, 2.00, -1.00)
+	Line  6958: Camera rotation: (45.00, 4.89, 0.00)
+	Line  6967: Frame_Num:182
+	Line  6976: Angle: 95.39042
+	Line  6985: Camera position: (1.91, 2.00, -1.00)
+	Line  6994: Camera rotation: (45.00, 5.39, 0.00)
+	Line  7003: Frame_Num:183
+	Line  7012: Angle: 95.89733
+	Line  7021: Camera position: (1.90, 2.00, -0.99)
+	Line  7030: Camera rotation: (45.00, 5.90, 0.00)
+	Line  7039: Frame_Num:184
+	Line  7048: Angle: 96.4283
+	Line  7057: Camera position: (1.89, 2.00, -0.99)
+	Line  7066: Camera rotation: (45.00, 6.43, 0.00)
+	Line  7075: Frame_Num:185
+	Line  7084: Angle: 96.93278
+	Line  7093: Camera position: (1.88, 2.00, -0.99)
+	Line  7102: Camera rotation: (45.00, 6.93, 0.00)
+	Line  7111: Frame_Num:186
+	Line  7120: Angle: 97.43282
+	Line  7129: Camera position: (1.87, 2.00, -0.99)
+	Line  7138: Camera rotation: (45.00, 7.43, 0.00)
+	Line  7147: Frame_Num:187
+	Line  7156: Angle: 97.9487
+	Line  7165: Camera position: (1.86, 2.00, -0.99)
+	Line  7174: Camera rotation: (45.00, 7.95, 0.00)
+	Line  7183: Frame_Num:188
+	Line  7192: Angle: 98.48267
+	Line  7201: Camera position: (1.85, 2.00, -0.99)
+	Line  7210: Camera rotation: (45.00, 8.48, 0.00)
+	Line  7219: Frame_Num:189
+	Line  7228: Angle: 99.00412
+	Line  7237: Camera position: (1.84, 2.00, -0.99)
+	Line  7246: Camera rotation: (45.00, 9.00, 0.00)
+	Line  7255: Frame_Num:190
+	Line  7264: Angle: 99.5309
+	Line  7273: Camera position: (1.83, 2.00, -0.99)
+	Line  7282: Camera rotation: (45.00, 9.53, 0.00)
+	Line  7291: Frame_Num:191
+	Line  7300: Angle: 100.0796
+	Line  7309: Camera position: (1.82, 2.00, -0.98)
+	Line  7318: Camera rotation: (45.00, 10.08, 0.00)
+	Line  7327: Frame_Num:192
+	Line  7336: Angle: 100.5863
+	Line  7345: Camera position: (1.82, 2.00, -0.98)
+	Line  7354: Camera rotation: (45.00, 10.59, 0.00)
+	Line  7363: Frame_Num:193
+	Line  7372: Angle: 101.0869
+	Line  7381: Camera position: (1.81, 2.00, -0.98)
+	Line  7390: Camera rotation: (45.00, 11.09, 0.00)
+	Line  7399: Frame_Num:194
+	Line  7408: Angle: 101.6128
+	Line  7417: Camera position: (1.80, 2.00, -0.98)
+	Line  7426: Camera rotation: (45.00, 11.61, 0.00)
+	Line  7435: Frame_Num:195
+	Line  7444: Angle: 102.1162
+	Line  7453: Camera position: (1.79, 2.00, -0.98)
+	Line  7462: Camera rotation: (45.00, 12.12, 0.00)
+	Line  7471: Frame_Num:196
+	Line  7480: Angle: 102.6391
+	Line  7489: Camera position: (1.78, 2.00, -0.98)
+	Line  7498: Camera rotation: (45.00, 12.64, 0.00)
+	Line  7507: Frame_Num:197
+	Line  7516: Angle: 103.153
+	Line  7525: Camera position: (1.77, 2.00, -0.97)
+	Line  7534: Camera rotation: (45.00, 13.15, 0.00)
+	Line  7543: Frame_Num:198
+	Line  7552: Angle: 103.6732
+	Line  7561: Camera position: (1.76, 2.00, -0.97)
+	Line  7570: Camera rotation: (45.00, 13.67, 0.00)
+	Line  7579: Frame_Num:199
+	Line  7588: Angle: 104.1886
+	Line  7597: Camera position: (1.75, 2.00, -0.97)
+	Line  7606: Camera rotation: (45.00, 14.19, 0.00)
+	Line  7615: Frame_Num:200
+	Line  7624: Angle: 104.7028
+	Line  7633: Camera position: (1.75, 2.00, -0.97)
+	Line  7642: Camera rotation: (45.00, 14.70, 0.00)
+	Line  7651: Frame_Num:201
+	Line  7660: Angle: 105.2119
+	Line  7669: Camera position: (1.74, 2.00, -0.96)
+	Line  7678: Camera rotation: (45.00, 15.21, 0.00)
+	Line  7687: Frame_Num:202
+	Line  7696: Angle: 105.7246
+	Line  7705: Camera position: (1.73, 2.00, -0.96)
+	Line  7714: Camera rotation: (45.00, 15.72, 0.00)
+	Line  7723: Frame_Num:203
+	Line  7732: Angle: 106.2463
+	Line  7741: Camera position: (1.72, 2.00, -0.96)
+	Line  7750: Camera rotation: (45.00, 16.25, 0.00)
+	Line  7759: Frame_Num:204
+	Line  7768: Angle: 106.7837
+	Line  7777: Camera position: (1.71, 2.00, -0.96)
+	Line  7786: Camera rotation: (45.00, 16.78, 0.00)
+	Line  7795: Frame_Num:205
+	Line  7804: Angle: 107.2958
+	Line  7813: Camera position: (1.70, 2.00, -0.95)
+	Line  7822: Camera rotation: (45.00, 17.30, 0.00)
+	Line  7831: Frame_Num:206
+	Line  7840: Angle: 107.8304
+	Line  7849: Camera position: (1.69, 2.00, -0.95)
+	Line  7858: Camera rotation: (45.00, 17.83, 0.00)
+	Line  7867: Frame_Num:207
+	Line  7876: Angle: 108.3437
+	Line  7885: Camera position: (1.69, 2.00, -0.95)
+	Line  7894: Camera rotation: (45.00, 18.34, 0.00)
+	Line  7903: Frame_Num:208
+	Line  7912: Angle: 108.8484
+	Line  7921: Camera position: (1.68, 2.00, -0.95)
+	Line  7930: Camera rotation: (45.00, 18.85, 0.00)
+	Line  7939: Frame_Num:209
+	Line  7948: Angle: 109.375
+	Line  7957: Camera position: (1.67, 2.00, -0.94)
+	Line  7966: Camera rotation: (45.00, 19.38, 0.00)
+	Line  7975: Frame_Num:210
+	Line  7984: Angle: 109.8909
+	Line  7993: Camera position: (1.66, 2.00, -0.94)
+	Line  8002: Camera rotation: (45.00, 19.89, 0.00)
+	Line  8011: Frame_Num:211
+	Line  8020: Angle: 110.3925
+	Line  8029: Camera position: (1.65, 2.00, -0.94)
+	Line  8038: Camera rotation: (45.00, 20.39, 0.00)
+	Line  8047: Frame_Num:212
+	Line  8056: Angle: 110.9077
+	Line  8065: Camera position: (1.64, 2.00, -0.93)
+	Line  8074: Camera rotation: (45.00, 20.91, 0.00)
+	Line  8083: Frame_Num:213
+	Line  8092: Angle: 111.4086
+	Line  8101: Camera position: (1.63, 2.00, -0.93)
+	Line  8110: Camera rotation: (45.00, 21.41, 0.00)
+	Line  8119: Frame_Num:214
+	Line  8128: Angle: 111.9176
+	Line  8137: Camera position: (1.63, 2.00, -0.93)
+	Line  8146: Camera rotation: (45.00, 21.92, 0.00)
+	Line  8155: Frame_Num:215
+	Line  8164: Angle: 112.4259
+	Line  8173: Camera position: (1.62, 2.00, -0.92)
+	Line  8182: Camera rotation: (45.00, 22.43, 0.00)
+	Line  8191: Frame_Num:216
+	Line  8200: Angle: 112.9532
+	Line  8209: Camera position: (1.61, 2.00, -0.92)
+	Line  8218: Camera rotation: (45.00, 22.95, 0.00)
+	Line  8227: Frame_Num:217
+	Line  8236: Angle: 113.4802
+	Line  8245: Camera position: (1.60, 2.00, -0.92)
+	Line  8254: Camera rotation: (45.00, 23.48, 0.00)
+	Line  8263: Frame_Num:218
+	Line  8272: Angle: 113.9888
+	Line  8281: Camera position: (1.59, 2.00, -0.91)
+	Line  8290: Camera rotation: (45.00, 23.99, 0.00)
+	Line  8299: Frame_Num:219
+	Line  8308: Angle: 114.5191
+	Line  8317: Camera position: (1.59, 2.00, -0.91)
+	Line  8326: Camera rotation: (45.00, 24.52, 0.00)
+	Line  8335: Frame_Num:220
+	Line  8344: Angle: 115.0288
+	Line  8353: Camera position: (1.58, 2.00, -0.91)
+	Line  8362: Camera rotation: (45.00, 25.03, 0.00)
+	Line  8371: Frame_Num:221
+	Line  8380: Angle: 115.5302
+	Line  8389: Camera position: (1.57, 2.00, -0.90)
+	Line  8398: Camera rotation: (45.00, 25.53, 0.00)
+	Line  8407: Frame_Num:222
+	Line  8416: Angle: 116.0342
+	Line  8425: Camera position: (1.56, 2.00, -0.90)
+	Line  8434: Camera rotation: (45.00, 26.03, 0.00)
+	Line  8443: Frame_Num:223
+	Line  8452: Angle: 116.546
+	Line  8461: Camera position: (1.55, 2.00, -0.89)
+	Line  8470: Camera rotation: (45.00, 26.55, 0.00)
+	Line  8479: Frame_Num:224
+	Line  8488: Angle: 117.0819
+	Line  8497: Camera position: (1.54, 2.00, -0.89)
+	Line  8506: Camera rotation: (45.00, 27.08, 0.00)
+	Line  8515: Frame_Num:225
+	Line  8524: Angle: 117.6035
+	Line  8533: Camera position: (1.54, 2.00, -0.89)
+	Line  8542: Camera rotation: (45.00, 27.60, 0.00)
+	Line  8551: Frame_Num:226
+	Line  8560: Angle: 118.1084
+	Line  8569: Camera position: (1.53, 2.00, -0.88)
+	Line  8578: Camera rotation: (45.00, 28.11, 0.00)
+	Line  8587: Frame_Num:227
+	Line  8596: Angle: 118.6535
+	Line  8605: Camera position: (1.52, 2.00, -0.88)
+	Line  8614: Camera rotation: (45.00, 28.65, 0.00)
+	Line  8623: Frame_Num:228
+	Line  8632: Angle: 119.182
+	Line  8641: Camera position: (1.51, 2.00, -0.87)
+	Line  8650: Camera rotation: (45.00, 29.18, 0.00)
+	Line  8659: Frame_Num:229
+	Line  8668: Angle: 119.7443
+	Line  8677: Camera position: (1.50, 2.00, -0.87)
+	Line  8686: Camera rotation: (45.00, 29.74, 0.00)
+	Line  8695: Frame_Num:230
+	Line  8704: Angle: 120.2538
+	Line  8713: Camera position: (1.50, 2.00, -0.86)
+	Line  8722: Camera rotation: (45.00, 30.25, 0.00)
+	Line  8731: Frame_Num:231
+	Line  8740: Angle: 120.76
+	Line  8749: Camera position: (1.49, 2.00, -0.86)
+	Line  8758: Camera rotation: (45.00, 30.76, 0.00)
+	Line  8767: Frame_Num:232
+	Line  8776: Angle: 121.2694
+	Line  8785: Camera position: (1.48, 2.00, -0.85)
+	Line  8794: Camera rotation: (45.00, 31.27, 0.00)
+	Line  8803: Frame_Num:233
+	Line  8812: Angle: 121.7869
+	Line  8821: Camera position: (1.47, 2.00, -0.85)
+	Line  8830: Camera rotation: (45.00, 31.79, 0.00)
+	Line  8839: Frame_Num:234
+	Line  8848: Angle: 122.3046
+	Line  8857: Camera position: (1.47, 2.00, -0.85)
+	Line  8866: Camera rotation: (45.00, 32.30, 0.00)
+	Line  8875: Frame_Num:235
+	Line  8884: Angle: 122.823
+	Line  8893: Camera position: (1.46, 2.00, -0.84)
+	Line  8902: Camera rotation: (45.00, 32.82, 0.00)
+	Line  8911: Frame_Num:236
+	Line  8920: Angle: 123.3825
+	Line  8929: Camera position: (1.45, 2.00, -0.84)
+	Line  8938: Camera rotation: (45.00, 33.38, 0.00)
+	Line  8947: Frame_Num:237
+	Line  8956: Angle: 123.9144
+	Line  8965: Camera position: (1.44, 2.00, -0.83)
+	Line  8974: Camera rotation: (45.00, 33.91, 0.00)
+	Line  8983: Frame_Num:238
+	Line  8992: Angle: 124.4309
+	Line  9001: Camera position: (1.43, 2.00, -0.82)
+	Line  9010: Camera rotation: (45.00, 34.43, 0.00)
+	Line  9019: Frame_Num:239
+	Line  9028: Angle: 124.953
+	Line  9037: Camera position: (1.43, 2.00, -0.82)
+	Line  9046: Camera rotation: (45.00, 34.95, 0.00)
+	Line  9055: Frame_Num:240
+	Line  9064: Angle: 125.4581
+	Line  9073: Camera position: (1.42, 2.00, -0.81)
+	Line  9082: Camera rotation: (45.00, 35.46, 0.00)
+	Line  9091: Frame_Num:241
+	Line  9100: Angle: 125.9681
+	Line  9109: Camera position: (1.41, 2.00, -0.81)
+	Line  9118: Camera rotation: (45.00, 35.97, 0.00)
+	Line  9127: Frame_Num:242
+	Line  9136: Angle: 126.4776
+	Line  9145: Camera position: (1.41, 2.00, -0.80)
+	Line  9154: Camera rotation: (45.00, 36.48, 0.00)
+	Line  9163: Frame_Num:243
+	Line  9172: Angle: 126.9888
+	Line  9181: Camera position: (1.40, 2.00, -0.80)
+	Line  9190: Camera rotation: (45.00, 36.99, 0.00)
+	Line  9199: Frame_Num:244
+	Line  9208: Angle: 127.4971
+	Line  9217: Camera position: (1.39, 2.00, -0.79)
+	Line  9226: Camera rotation: (45.00, 37.50, 0.00)
+	Line  9235: Frame_Num:245
+	Line  9244: Angle: 128.0142
+	Line  9253: Camera position: (1.38, 2.00, -0.79)
+	Line  9262: Camera rotation: (45.00, 38.01, 0.00)
+	Line  9271: Frame_Num:246
+	Line  9280: Angle: 128.5628
+	Line  9289: Camera position: (1.38, 2.00, -0.78)
+	Line  9298: Camera rotation: (45.00, 38.56, 0.00)
+	Line  9307: Frame_Num:247
+	Line  9316: Angle: 129.0766
+	Line  9325: Camera position: (1.37, 2.00, -0.78)
+	Line  9334: Camera rotation: (45.00, 39.08, 0.00)
+	Line  9343: Frame_Num:248
+	Line  9352: Angle: 129.6024
+	Line  9361: Camera position: (1.36, 2.00, -0.77)
+	Line  9370: Camera rotation: (45.00, 39.60, 0.00)
+	Line  9379: Frame_Num:249
+	Line  9388: Angle: 130.1085
+	Line  9397: Camera position: (1.36, 2.00, -0.76)
+	Line  9406: Camera rotation: (45.00, 40.11, 0.00)
+	Line  9415: Frame_Num:250
+	Line  9424: Angle: 130.6196
+	Line  9433: Camera position: (1.35, 2.00, -0.76)
+	Line  9442: Camera rotation: (45.00, 40.62, 0.00)
+	Line  9451: Frame_Num:251
+	Line  9460: Angle: 131.1199
+	Line  9469: Camera position: (1.34, 2.00, -0.75)
+	Line  9478: Camera rotation: (45.00, 41.12, 0.00)
+	Line  9487: Frame_Num:252
+	Line  9496: Angle: 131.6271
+	Line  9505: Camera position: (1.34, 2.00, -0.75)
+	Line  9514: Camera rotation: (45.00, 41.63, 0.00)
+	Line  9523: Frame_Num:253
+	Line  9532: Angle: 132.1392
+	Line  9541: Camera position: (1.33, 2.00, -0.74)
+	Line  9550: Camera rotation: (45.00, 42.14, 0.00)
+	Line  9559: Frame_Num:254
+	Line  9568: Angle: 132.6404
+	Line  9577: Camera position: (1.32, 2.00, -0.74)
+	Line  9586: Camera rotation: (45.00, 42.64, 0.00)
+	Line  9595: Frame_Num:255
+	Line  9604: Angle: 133.1523
+	Line  9613: Camera position: (1.32, 2.00, -0.73)
+	Line  9622: Camera rotation: (45.00, 43.15, 0.00)
+	Line  9631: Frame_Num:256
+	Line  9640: Angle: 133.675
+	Line  9649: Camera position: (1.31, 2.00, -0.72)
+	Line  9658: Camera rotation: (45.00, 43.68, 0.00)
+	Line  9667: Frame_Num:257
+	Line  9676: Angle: 134.1835
+	Line  9685: Camera position: (1.30, 2.00, -0.72)
+	Line  9694: Camera rotation: (45.00, 44.18, 0.00)
+	Line  9703: Frame_Num:258
+	Line  9712: Angle: 134.6882
+	Line  9721: Camera position: (1.30, 2.00, -0.71)
+	Line  9730: Camera rotation: (45.00, 44.69, 0.00)
+	Line  9739: Frame_Num:259
+	Line  9748: Angle: 135.201
+	Line  9757: Camera position: (1.29, 2.00, -0.70)
+	Line  9766: Camera rotation: (45.00, 45.20, 0.00)
+	Line  9775: Frame_Num:260
+	Line  9784: Angle: 135.7176
+	Line  9793: Camera position: (1.28, 2.00, -0.70)
+	Line  9802: Camera rotation: (45.00, 45.72, 0.00)
+	Line  9811: Frame_Num:261
+	Line  9820: Angle: 136.2383
+	Line  9829: Camera position: (1.28, 2.00, -0.69)
+	Line  9838: Camera rotation: (45.00, 46.24, 0.00)
+	Line  9847: Frame_Num:262
+	Line  9856: Angle: 136.7507
+	Line  9865: Camera position: (1.27, 2.00, -0.69)
+	Line  9874: Camera rotation: (45.00, 46.75, 0.00)
+	Line  9883: Frame_Num:263
+	Line  9892: Angle: 137.2719
+	Line  9901: Camera position: (1.27, 2.00, -0.68)
+	Line  9910: Camera rotation: (45.00, 47.27, 0.00)
+	Line  9919: Frame_Num:264
+	Line  9928: Angle: 137.7839
+	Line  9937: Camera position: (1.26, 2.00, -0.67)
+	Line  9946: Camera rotation: (45.00, 47.78, 0.00)
+	Line  9955: Frame_Num:265
+	Line  9964: Angle: 138.2843
+	Line  9973: Camera position: (1.25, 2.00, -0.67)
+	Line  9982: Camera rotation: (45.00, 48.28, 0.00)
+	Line  9991: Frame_Num:266
+	Line 10000: Angle: 138.7969
+	Line 10009: Camera position: (1.25, 2.00, -0.66)
+	Line 10018: Camera rotation: (45.00, 48.80, 0.00)
+	Line 10027: Frame_Num:267
+	Line 10036: Angle: 139.3132
+	Line 10045: Camera position: (1.24, 2.00, -0.65)
+	Line 10054: Camera rotation: (45.00, 49.31, 0.00)
+	Line 10063: Frame_Num:268
+	Line 10072: Angle: 139.8372
+	Line 10081: Camera position: (1.24, 2.00, -0.64)
+	Line 10090: Camera rotation: (45.00, 49.84, 0.00)
+	Line 10099: Frame_Num:269
+	Line 10108: Angle: 140.3521
+	Line 10117: Camera position: (1.23, 2.00, -0.64)
+	Line 10126: Camera rotation: (45.00, 50.35, 0.00)
+	Line 10135: Frame_Num:270
+	Line 10144: Angle: 140.8548
+	Line 10153: Camera position: (1.22, 2.00, -0.63)
+	Line 10162: Camera rotation: (45.00, 50.86, 0.00)
+	Line 10171: Frame_Num:271
+	Line 10180: Angle: 141.3563
+	Line 10189: Camera position: (1.22, 2.00, -0.62)
+	Line 10198: Camera rotation: (45.00, 51.36, 0.00)
+	Line 10207: Frame_Num:272
+	Line 10216: Angle: 141.8793
+	Line 10225: Camera position: (1.21, 2.00, -0.62)
+	Line 10234: Camera rotation: (45.00, 51.88, 0.00)
+	Line 10243: Frame_Num:273
+	Line 10252: Angle: 142.4235
+	Line 10261: Camera position: (1.21, 2.00, -0.61)
+	Line 10270: Camera rotation: (45.00, 52.42, 0.00)
+	Line 10279: Frame_Num:274
+	Line 10288: Angle: 142.9706
+	Line 10297: Camera position: (1.20, 2.00, -0.60)
+	Line 10306: Camera rotation: (45.00, 52.97, 0.00)
+	Line 10315: Frame_Num:275
+	Line 10324: Angle: 143.4879
+	Line 10333: Camera position: (1.20, 2.00, -0.59)
+	Line 10342: Camera rotation: (45.00, 53.49, 0.00)
+	Line 10351: Frame_Num:276
+	Line 10360: Angle: 144.0201
+	Line 10369: Camera position: (1.19, 2.00, -0.59)
+	Line 10378: Camera rotation: (45.00, 54.02, 0.00)
+	Line 10387: Frame_Num:277
+	Line 10396: Angle: 144.5204
+	Line 10405: Camera position: (1.19, 2.00, -0.58)
+	Line 10414: Camera rotation: (45.00, 54.52, 0.00)
+	Line 10423: Frame_Num:278
+	Line 10432: Angle: 145.0389
+	Line 10441: Camera position: (1.18, 2.00, -0.57)
+	Line 10450: Camera rotation: (45.00, 55.04, 0.00)
+	Line 10459: Frame_Num:279
+	Line 10468: Angle: 145.5531
+	Line 10477: Camera position: (1.18, 2.00, -0.57)
+	Line 10486: Camera rotation: (45.00, 55.55, 0.00)
+	Line 10495: Frame_Num:280
+	Line 10504: Angle: 146.0685
+	Line 10513: Camera position: (1.17, 2.00, -0.56)
+	Line 10522: Camera rotation: (45.00, 56.07, 0.00)
+	Line 10531: Frame_Num:281
+	Line 10540: Angle: 146.5772
+	Line 10549: Camera position: (1.17, 2.00, -0.55)
+	Line 10558: Camera rotation: (45.00, 56.58, 0.00)
+	Line 10567: Frame_Num:282
+	Line 10576: Angle: 147.0864
+	Line 10585: Camera position: (1.16, 2.00, -0.54)
+	Line 10594: Camera rotation: (45.00, 57.09, 0.00)
+	Line 10603: Frame_Num:283
+	Line 10612: Angle: 147.597
+	Line 10621: Camera position: (1.16, 2.00, -0.54)
+	Line 10630: Camera rotation: (45.00, 57.60, 0.00)
+	Line 10639: Frame_Num:284
+	Line 10648: Angle: 148.1059
+	Line 10657: Camera position: (1.15, 2.00, -0.53)
+	Line 10666: Camera rotation: (45.00, 58.11, 0.00)
+	Line 10675: Frame_Num:285
+	Line 10684: Angle: 148.6122
+	Line 10693: Camera position: (1.15, 2.00, -0.52)
+	Line 10702: Camera rotation: (45.00, 58.61, 0.00)
+	Line 10711: Frame_Num:286
+	Line 10720: Angle: 149.1269
+	Line 10729: Camera position: (1.14, 2.00, -0.51)
+	Line 10738: Camera rotation: (45.00, 59.13, 0.00)
+	Line 10747: Frame_Num:287
+	Line 10756: Angle: 149.6337
+	Line 10765: Camera position: (1.14, 2.00, -0.51)
+	Line 10774: Camera rotation: (45.00, 59.63, 0.00)
+	Line 10783: Frame_Num:288
+	Line 10792: Angle: 150.1365
+	Line 10801: Camera position: (1.13, 2.00, -0.50)
+	Line 10810: Camera rotation: (45.00, 60.14, 0.00)
+	Line 10819: Frame_Num:289
+	Line 10828: Angle: 150.6799
+	Line 10837: Camera position: (1.13, 2.00, -0.49)
+	Line 10846: Camera rotation: (45.00, 60.68, 0.00)
+	Line 10855: Frame_Num:290
+	Line 10864: Angle: 151.1867
+	Line 10873: Camera position: (1.12, 2.00, -0.48)
+	Line 10882: Camera rotation: (45.00, 61.19, 0.00)
+	Line 10891: Frame_Num:291
+	Line 10900: Angle: 151.7022
+	Line 10909: Camera position: (1.12, 2.00, -0.47)
+	Line 10918: Camera rotation: (45.00, 61.70, 0.00)
+	Line 10927: Frame_Num:292
+	Line 10936: Angle: 152.209
+	Line 10945: Camera position: (1.12, 2.00, -0.47)
+	Line 10954: Camera rotation: (45.00, 62.21, 0.00)
+	Line 10963: Frame_Num:293
+	Line 10972: Angle: 152.7126
+	Line 10981: Camera position: (1.11, 2.00, -0.46)
+	Line 10990: Camera rotation: (45.00, 62.71, 0.00)
+	Line 10999: Frame_Num:294
+	Line 11008: Angle: 153.2166
+	Line 11017: Camera position: (1.11, 2.00, -0.45)
+	Line 11026: Camera rotation: (45.00, 63.22, 0.00)
+	Line 11035: Frame_Num:295
+	Line 11044: Angle: 153.7307
+	Line 11053: Camera position: (1.10, 2.00, -0.44)
+	Line 11062: Camera rotation: (45.00, 63.73, 0.00)
+	Line 11071: Frame_Num:296
+	Line 11080: Angle: 154.251
+	Line 11089: Camera position: (1.10, 2.00, -0.43)
+	Line 11098: Camera rotation: (45.00, 64.25, 0.00)
+	Line 11107: Frame_Num:297
+	Line 11116: Angle: 154.8205
+	Line 11125: Camera position: (1.10, 2.00, -0.43)
+	Line 11134: Camera rotation: (45.00, 64.82, 0.00)
+	Line 11143: Frame_Num:298
+	Line 11152: Angle: 155.3526
+	Line 11161: Camera position: (1.09, 2.00, -0.42)
+	Line 11170: Camera rotation: (45.00, 65.35, 0.00)
+	Line 11179: Frame_Num:299
+	Line 11188: Angle: 155.8877
+	Line 11197: Camera position: (1.09, 2.00, -0.41)
+	Line 11206: Camera rotation: (45.00, 65.89, 0.00)
+	Line 11215: Frame_Num:300
+	Line 11224: Angle: 156.4056
+	Line 11233: Camera position: (1.08, 2.00, -0.40)
+	Line 11242: Camera rotation: (45.00, 66.41, 0.00)
+	Line 11251: Frame_Num:301
+	Line 11260: Angle: 156.9166
+	Line 11269: Camera position: (1.08, 2.00, -0.39)
+	Line 11278: Camera rotation: (45.00, 66.92, 0.00)
+	Line 11287: Frame_Num:302
+	Line 11296: Angle: 157.4304
+	Line 11305: Camera position: (1.08, 2.00, -0.38)
+	Line 11314: Camera rotation: (45.00, 67.43, 0.00)
+	Line 11323: Frame_Num:303
+	Line 11332: Angle: 157.956
+	Line 11341: Camera position: (1.07, 2.00, -0.38)
+	Line 11350: Camera rotation: (45.00, 67.96, 0.00)
+	Line 11359: Frame_Num:304
+	Line 11368: Angle: 158.4838
+	Line 11377: Camera position: (1.07, 2.00, -0.37)
+	Line 11386: Camera rotation: (45.00, 68.48, 0.00)
+	Line 11395: Frame_Num:305
+	Line 11404: Angle: 158.9956
+	Line 11413: Camera position: (1.07, 2.00, -0.36)
+	Line 11422: Camera rotation: (45.00, 69.00, 0.00)
+	Line 11431: Frame_Num:306
+	Line 11440: Angle: 159.4998
+	Line 11449: Camera position: (1.06, 2.00, -0.35)
+	Line 11458: Camera rotation: (45.00, 69.50, 0.00)
+	Line 11467: Frame_Num:307
+	Line 11476: Angle: 160.0006
+	Line 11485: Camera position: (1.06, 2.00, -0.34)
+	Line 11494: Camera rotation: (45.00, 70.00, 0.00)
+	Line 11503: Frame_Num:308
+	Line 11512: Angle: 160.5387
+	Line 11521: Camera position: (1.06, 2.00, -0.33)
+	Line 11530: Camera rotation: (45.00, 70.54, 0.00)
+	Line 11539: Frame_Num:309
+	Line 11548: Angle: 161.0906
+	Line 11557: Camera position: (1.05, 2.00, -0.32)
+	Line 11566: Camera rotation: (45.00, 71.09, 0.00)
+	Line 11575: Frame_Num:310
+	Line 11584: Angle: 161.5978
+	Line 11593: Camera position: (1.05, 2.00, -0.32)
+	Line 11602: Camera rotation: (45.00, 71.60, 0.00)
+	Line 11611: Frame_Num:311
+	Line 11620: Angle: 162.1042
+	Line 11629: Camera position: (1.05, 2.00, -0.31)
+	Line 11638: Camera rotation: (45.00, 72.11, 0.00)
+	Line 11647: Frame_Num:312
+	Line 11656: Angle: 162.6091
+	Line 11665: Camera position: (1.05, 2.00, -0.30)
+	Line 11674: Camera rotation: (45.00, 72.61, 0.00)
+	Line 11683: Frame_Num:313
+	Line 11692: Angle: 163.1148
+	Line 11701: Camera position: (1.04, 2.00, -0.29)
+	Line 11710: Camera rotation: (45.00, 73.12, 0.00)
+	Line 11719: Frame_Num:314
+	Line 11728: Angle: 163.6156
+	Line 11737: Camera position: (1.04, 2.00, -0.28)
+	Line 11746: Camera rotation: (45.00, 73.62, 0.00)
+	Line 11755: Frame_Num:315
+	Line 11764: Angle: 164.1193
+	Line 11773: Camera position: (1.04, 2.00, -0.27)
+	Line 11782: Camera rotation: (45.00, 74.12, 0.00)
+	Line 11791: Frame_Num:316
+	Line 11800: Angle: 164.6219
+	Line 11809: Camera position: (1.04, 2.00, -0.27)
+	Line 11818: Camera rotation: (45.00, 74.62, 0.00)
+	Line 11827: Frame_Num:317
+	Line 11836: Angle: 165.1317
+	Line 11845: Camera position: (1.03, 2.00, -0.26)
+	Line 11854: Camera rotation: (45.00, 75.13, 0.00)
+	Line 11863: Frame_Num:318
+	Line 11872: Angle: 165.6648
+	Line 11881: Camera position: (1.03, 2.00, -0.25)
+	Line 11890: Camera rotation: (45.00, 75.67, 0.00)
+	Line 11899: Frame_Num:319
+	Line 11908: Angle: 166.1809
+	Line 11917: Camera position: (1.03, 2.00, -0.24)
+	Line 11926: Camera rotation: (45.00, 76.18, 0.00)
+	Line 11935: Frame_Num:320
+	Line 11944: Angle: 166.6978
+	Line 11953: Camera position: (1.03, 2.00, -0.23)
+	Line 11962: Camera rotation: (45.00, 76.70, 0.00)
+	Line 11971: Frame_Num:321
+	Line 11980: Angle: 167.2168
+	Line 11989: Camera position: (1.02, 2.00, -0.22)
+	Line 11998: Camera rotation: (45.00, 77.22, 0.00)
+	Line 12007: Frame_Num:322
+	Line 12016: Angle: 167.7263
+	Line 12025: Camera position: (1.02, 2.00, -0.21)
+	Line 12034: Camera rotation: (45.00, 77.73, 0.00)
+	Line 12043: Frame_Num:323
+	Line 12052: Angle: 168.2624
+	Line 12061: Camera position: (1.02, 2.00, -0.20)
+	Line 12070: Camera rotation: (45.00, 78.26, 0.00)
+	Line 12079: Frame_Num:324
+	Line 12088: Angle: 168.768
+	Line 12097: Camera position: (1.02, 2.00, -0.19)
+	Line 12106: Camera rotation: (45.00, 78.77, 0.00)
+	Line 12115: Frame_Num:325
+	Line 12124: Angle: 169.2829
+	Line 12133: Camera position: (1.02, 2.00, -0.19)
+	Line 12142: Camera rotation: (45.00, 79.28, 0.00)
+	Line 12151: Frame_Num:326
+	Line 12160: Angle: 169.813
+	Line 12169: Camera position: (1.02, 2.00, -0.18)
+	Line 12178: Camera rotation: (45.00, 79.81, 0.00)
+	Line 12187: Frame_Num:327
+	Line 12196: Angle: 170.3231
+	Line 12205: Camera position: (1.01, 2.00, -0.17)
+	Line 12214: Camera rotation: (45.00, 80.32, 0.00)
+	Line 12223: Frame_Num:328
+	Line 12232: Angle: 170.8471
+	Line 12241: Camera position: (1.01, 2.00, -0.16)
+	Line 12250: Camera rotation: (45.00, 80.85, 0.00)
+	Line 12259: Frame_Num:329
+	Line 12268: Angle: 171.3817
+	Line 12277: Camera position: (1.01, 2.00, -0.15)
+	Line 12286: Camera rotation: (45.00, 81.38, 0.00)
+	Line 12295: Frame_Num:330
+	Line 12304: Angle: 171.8879
+	Line 12313: Camera position: (1.01, 2.00, -0.14)
+	Line 12322: Camera rotation: (45.00, 81.89, 0.00)
+	Line 12331: Frame_Num:331
+	Line 12340: Angle: 172.4141
+	Line 12349: Camera position: (1.01, 2.00, -0.13)
+	Line 12358: Camera rotation: (45.00, 82.41, 0.00)
+	Line 12367: Frame_Num:332
+	Line 12376: Angle: 172.9296
+	Line 12385: Camera position: (1.01, 2.00, -0.12)
+	Line 12394: Camera rotation: (45.00, 82.93, 0.00)
+	Line 12403: Frame_Num:333
+	Line 12412: Angle: 173.4413
+	Line 12421: Camera position: (1.01, 2.00, -0.11)
+	Line 12430: Camera rotation: (45.00, 83.44, 0.00)
+	Line 12439: Frame_Num:334
+	Line 12448: Angle: 173.9429
+	Line 12457: Camera position: (1.01, 2.00, -0.11)
+	Line 12466: Camera rotation: (45.00, 83.94, 0.00)
+	Line 12475: Frame_Num:335
+	Line 12484: Angle: 174.4564
+	Line 12493: Camera position: (1.00, 2.00, -0.10)
+	Line 12502: Camera rotation: (45.00, 84.46, 0.00)
+	Line 12511: Frame_Num:336
+	Line 12520: Angle: 174.9603
+	Line 12529: Camera position: (1.00, 2.00, -0.09)
+	Line 12538: Camera rotation: (45.00, 84.96, 0.00)
+	Line 12547: Frame_Num:337
+	Line 12556: Angle: 175.4669
+	Line 12565: Camera position: (1.00, 2.00, -0.08)
+	Line 12574: Camera rotation: (45.00, 85.47, 0.00)
+	Line 12583: Frame_Num:338
+	Line 12592: Angle: 175.9921
+	Line 12601: Camera position: (1.00, 2.00, -0.07)
+	Line 12610: Camera rotation: (45.00, 85.99, 0.00)
+	Line 12619: Frame_Num:339
+	Line 12628: Angle: 176.4973
+	Line 12637: Camera position: (1.00, 2.00, -0.06)
+	Line 12646: Camera rotation: (45.00, 86.50, 0.00)
+	Line 12655: Frame_Num:340
+	Line 12664: Angle: 177.0148
+	Line 12673: Camera position: (1.00, 2.00, -0.05)
+	Line 12682: Camera rotation: (45.00, 87.02, 0.00)
+	Line 12691: Frame_Num:341
+	Line 12700: Angle: 177.5315
+	Line 12709: Camera position: (1.00, 2.00, -0.04)
+	Line 12718: Camera rotation: (45.00, 87.53, 0.00)
+	Line 12727: Frame_Num:342
+	Line 12736: Angle: 178.0639
+	Line 12745: Camera position: (1.00, 2.00, -0.03)
+	Line 12754: Camera rotation: (45.00, 88.06, 0.00)
+	Line 12763: Frame_Num:343
+	Line 12772: Angle: 178.5689
+	Line 12781: Camera position: (1.00, 2.00, -0.02)
+	Line 12790: Camera rotation: (45.00, 88.57, 0.00)
+	Line 12799: Frame_Num:344
+	Line 12808: Angle: 179.0898
+	Line 12817: Camera position: (1.00, 2.00, -0.02)
+	Line 12826: Camera rotation: (45.00, 89.09, 0.00)
+	Line 12835: Frame_Num:345
+	Line 12844: Angle: 179.5907
+	Line 12853: Camera position: (1.00, 2.00, -0.01)
+	Line 12862: Camera rotation: (45.00, 89.59, 0.00)
+	Line 12871: Frame_Num:346
+	Line 12880: Angle: 180.1297
+	Line 12889: Camera position: (1.00, 2.00, 0.00)
+	Line 12898: Camera rotation: (45.00, 90.13, 0.00)
+	Line 12907: Frame_Num:347
+	Line 12916: Angle: 180.6623
+	Line 12925: Camera position: (1.00, 2.00, 0.01)
+	Line 12934: Camera rotation: (45.00, 90.66, 0.00)
+	Line 12943: Frame_Num:348
+	Line 12952: Angle: 181.1881
+	Line 12961: Camera position: (1.00, 2.00, 0.02)
+	Line 12970: Camera rotation: (45.00, 91.19, 0.00)
+	Line 12979: Frame_Num:349
+	Line 12988: Angle: 181.6936
+	Line 12997: Camera position: (1.00, 2.00, 0.03)
+	Line 13006: Camera rotation: (45.00, 91.69, 0.00)
+	Line 13015: Frame_Num:350
+	Line 13024: Angle: 182.2143
+	Line 13033: Camera position: (1.00, 2.00, 0.04)
+	Line 13042: Camera rotation: (45.00, 92.22, 0.00)
+	Line 13051: Frame_Num:351
+	Line 13060: Angle: 182.7231
+	Line 13069: Camera position: (1.00, 2.00, 0.05)
+	Line 13078: Camera rotation: (45.00, 92.72, 0.00)
+	Line 13087: Frame_Num:352
+	Line 13096: Angle: 183.2258
+	Line 13105: Camera position: (1.00, 2.00, 0.06)
+	Line 13114: Camera rotation: (45.00, 93.23, 0.00)
+	Line 13123: Frame_Num:353
+	Line 13132: Angle: 183.7306
+	Line 13141: Camera position: (1.00, 2.00, 0.07)
+	Line 13150: Camera rotation: (45.00, 93.73, 0.00)
+	Line 13159: Frame_Num:354
+	Line 13168: Angle: 184.2601
+	Line 13177: Camera position: (1.00, 2.00, 0.07)
+	Line 13186: Camera rotation: (45.00, 94.26, 0.00)
+	Line 13195: Frame_Num:355
+	Line 13204: Angle: 184.7681
+	Line 13213: Camera position: (1.00, 2.00, 0.08)
+	Line 13222: Camera rotation: (45.00, 94.77, 0.00)
+	Line 13231: Frame_Num:356
+	Line 13240: Angle: 185.2968
+	Line 13249: Camera position: (1.00, 2.00, 0.09)
+	Line 13258: Camera rotation: (45.00, 95.30, 0.00)
+	Line 13267: Frame_Num:357
+	Line 13276: Angle: 185.8375
+	Line 13285: Camera position: (1.01, 2.00, 0.10)
+	Line 13294: Camera rotation: (45.00, 95.84, 0.00)
+	Line 13303: Frame_Num:358
+	Line 13312: Angle: 186.3628
+	Line 13321: Camera position: (1.01, 2.00, 0.11)
+	Line 13330: Camera rotation: (45.00, 96.36, 0.00)
+	Line 13339: Frame_Num:359
+	Line 13348: Angle: 186.8638
+	Line 13357: Camera position: (1.01, 2.00, 0.12)
+	Line 13366: Camera rotation: (45.00, 96.86, 0.00)
+	Line 13375: Frame_Num:360
+	Line 13384: Angle: 187.3758
+	Line 13393: Camera position: (1.01, 2.00, 0.13)
+	Line 13402: Camera rotation: (45.00, 97.38, 0.00)
+	Line 13411: Frame_Num:361
+	Line 13420: Angle: 187.8832
+	Line 13429: Camera position: (1.01, 2.00, 0.14)
+	Line 13438: Camera rotation: (45.00, 97.88, 0.00)
+	Line 13447: Frame_Num:362
+	Line 13456: Angle: 188.3992
+	Line 13465: Camera position: (1.01, 2.00, 0.15)
+	Line 13474: Camera rotation: (45.00, 98.40, 0.00)
+	Line 13483: Frame_Num:363
+	Line 13492: Angle: 188.8994
+	Line 13501: Camera position: (1.01, 2.00, 0.15)
+	Line 13510: Camera rotation: (45.00, 98.90, 0.00)
+	Line 13519: Frame_Num:364
+	Line 13528: Angle: 189.3997
+	Line 13537: Camera position: (1.01, 2.00, 0.16)
+	Line 13546: Camera rotation: (45.00, 99.40, 0.00)
+	Line 13555: Frame_Num:365
+	Line 13564: Angle: 189.9116
+	Line 13573: Camera position: (1.01, 2.00, 0.17)
+	Line 13582: Camera rotation: (45.00, 99.91, 0.00)
+	Line 13591: Frame_Num:366
+	Line 13600: Angle: 190.4289
+	Line 13609: Camera position: (1.02, 2.00, 0.18)
+	Line 13618: Camera rotation: (45.00, 100.43, 0.00)
+	Line 13627: Frame_Num:367
+	Line 13636: Angle: 190.953
+	Line 13645: Camera position: (1.02, 2.00, 0.19)
+	Line 13654: Camera rotation: (45.00, 100.95, 0.00)
+	Line 13663: Frame_Num:368
+	Line 13672: Angle: 191.4639
+	Line 13681: Camera position: (1.02, 2.00, 0.20)
+	Line 13690: Camera rotation: (45.00, 101.46, 0.00)
+	Line 13699: Frame_Num:369
+	Line 13708: Angle: 192.0108
+	Line 13717: Camera position: (1.02, 2.00, 0.21)
+	Line 13726: Camera rotation: (45.00, 102.01, 0.00)
+	Line 13735: Frame_Num:370
+	Line 13744: Angle: 192.5128
+	Line 13753: Camera position: (1.02, 2.00, 0.22)
+	Line 13762: Camera rotation: (45.00, 102.51, 0.00)
+	Line 13771: Frame_Num:371
+	Line 13780: Angle: 193.0252
+	Line 13789: Camera position: (1.03, 2.00, 0.23)
+	Line 13798: Camera rotation: (45.00, 103.03, 0.00)
+	Line 13807: Frame_Num:372
+	Line 13816: Angle: 193.5416
+	Line 13825: Camera position: (1.03, 2.00, 0.23)
+	Line 13834: Camera rotation: (45.00, 103.54, 0.00)
+	Line 13843: Frame_Num:373
+	Line 13852: Angle: 194.052
+	Line 13861: Camera position: (1.03, 2.00, 0.24)
+	Line 13870: Camera rotation: (45.00, 104.05, 0.00)
+	Line 13879: Frame_Num:374
+	Line 13888: Angle: 194.5965
+	Line 13897: Camera position: (1.03, 2.00, 0.25)
+	Line 13906: Camera rotation: (45.00, 104.60, 0.00)
+	Line 13915: Frame_Num:375
+	Line 13924: Angle: 195.1062
+	Line 13933: Camera position: (1.03, 2.00, 0.26)
+	Line 13942: Camera rotation: (45.00, 105.11, 0.00)
+	Line 13951: Frame_Num:376
+	Line 13960: Angle: 195.6125
+	Line 13969: Camera position: (1.04, 2.00, 0.27)
+	Line 13978: Camera rotation: (45.00, 105.61, 0.00)
+	Line 13987: Frame_Num:377
+	Line 13996: Angle: 196.1336
+	Line 14005: Camera position: (1.04, 2.00, 0.28)
+	Line 14014: Camera rotation: (45.00, 106.13, 0.00)
+	Line 14023: Frame_Num:378
+	Line 14032: Angle: 196.6976
+	Line 14041: Camera position: (1.04, 2.00, 0.29)
+	Line 14050: Camera rotation: (45.00, 106.70, 0.00)
+	Line 14059: Frame_Num:379
+	Line 14068: Angle: 197.222
+	Line 14077: Camera position: (1.04, 2.00, 0.30)
+	Line 14086: Camera rotation: (45.00, 107.22, 0.00)
+	Line 14095: Frame_Num:380
+	Line 14104: Angle: 197.724
+	Line 14113: Camera position: (1.05, 2.00, 0.30)
+	Line 14122: Camera rotation: (45.00, 107.73, 0.00)
+	Line 14131: Frame_Num:381
+	Line 14140: Angle: 198.2285
+	Line 14149: Camera position: (1.05, 2.00, 0.31)
+	Line 14158: Camera rotation: (45.00, 108.23, 0.00)
+	Line 14167: Frame_Num:382
+	Line 14176: Angle: 198.7309
+	Line 14185: Camera position: (1.05, 2.00, 0.32)
+	Line 14194: Camera rotation: (45.00, 108.73, 0.00)
+	Line 14203: Frame_Num:383
+	Line 14212: Angle: 199.2565
+	Line 14221: Camera position: (1.06, 2.00, 0.33)
+	Line 14230: Camera rotation: (45.00, 109.26, 0.00)
+	Line 14239: Frame_Num:384
+	Line 14248: Angle: 199.7698
+	Line 14257: Camera position: (1.06, 2.00, 0.34)
+	Line 14266: Camera rotation: (45.00, 109.77, 0.00)
+	Line 14275: Frame_Num:385
+	Line 14284: Angle: 200.8326
+	Line 14293: Camera position: (1.07, 2.00, 0.36)
+	Line 14302: Camera rotation: (45.00, 110.83, 0.00)
+	Line 14311: Frame_Num:386
+	Line 14320: Angle: 201.3566
+	Line 14329: Camera position: (1.07, 2.00, 0.36)
+	Line 14338: Camera rotation: (45.00, 111.36, 0.00)
+	Line 14347: Frame_Num:387
+	Line 14356: Angle: 201.9774
+	Line 14365: Camera position: (1.07, 2.00, 0.37)
+	Line 14374: Camera rotation: (45.00, 111.98, 0.00)
+	Line 14383: Frame_Num:388
+	Line 14392: Angle: 202.5143
+	Line 14401: Camera position: (1.08, 2.00, 0.38)
+	Line 14410: Camera rotation: (45.00, 112.52, 0.00)
+	Line 14419: Frame_Num:389
+	Line 14428: Angle: 203.1312
+	Line 14437: Camera position: (1.08, 2.00, 0.39)
+	Line 14446: Camera rotation: (45.00, 113.13, 0.00)
+	Line 14455: Frame_Num:390
+	Line 14464: Angle: 203.7148
+	Line 14473: Camera position: (1.08, 2.00, 0.40)
+	Line 14482: Camera rotation: (45.00, 113.72, 0.00)
+	Line 14491: Frame_Num:391
+	Line 14500: Angle: 204.2246
+	Line 14509: Camera position: (1.09, 2.00, 0.41)
+	Line 14518: Camera rotation: (45.00, 114.23, 0.00)
+	Line 14527: Frame_Num:392
+	Line 14536: Angle: 204.7297
+	Line 14545: Camera position: (1.09, 2.00, 0.42)
+	Line 14554: Camera rotation: (45.00, 114.73, 0.00)
+	Line 14563: Frame_Num:393
+	Line 14572: Angle: 205.2401
+	Line 14581: Camera position: (1.10, 2.00, 0.43)
+	Line 14590: Camera rotation: (45.00, 115.24, 0.00)
+	Line 14599: Frame_Num:394
+	Line 14608: Angle: 205.7692
+	Line 14617: Camera position: (1.10, 2.00, 0.43)
+	Line 14626: Camera rotation: (45.00, 115.77, 0.00)
+	Line 14635: Frame_Num:395
+	Line 14644: Angle: 206.2829
+	Line 14653: Camera position: (1.10, 2.00, 0.44)
+	Line 14662: Camera rotation: (45.00, 116.28, 0.00)
+	Line 14671: Frame_Num:396
+	Line 14680: Angle: 206.7926
+	Line 14689: Camera position: (1.11, 2.00, 0.45)
+	Line 14698: Camera rotation: (45.00, 116.79, 0.00)
+	Line 14707: Frame_Num:397
+	Line 14716: Angle: 207.3071
+	Line 14725: Camera position: (1.11, 2.00, 0.46)
+	Line 14734: Camera rotation: (45.00, 117.31, 0.00)
+	Line 14743: Frame_Num:398
+	Line 14752: Angle: 207.8506
+	Line 14761: Camera position: (1.12, 2.00, 0.47)
+	Line 14770: Camera rotation: (45.00, 117.85, 0.00)
+	Line 14779: Frame_Num:399
+	Line 14788: Angle: 208.3769
+	Line 14797: Camera position: (1.12, 2.00, 0.48)
+	Line 14806: Camera rotation: (45.00, 118.38, 0.00)
+	Line 14815: Frame_Num:400
+	Line 14824: Angle: 208.8828
+	Line 14833: Camera position: (1.12, 2.00, 0.48)
+	Line 14842: Camera rotation: (45.00, 118.88, 0.00)
+	Line 14851: Frame_Num:401
+	Line 14860: Angle: 209.386
+	Line 14869: Camera position: (1.13, 2.00, 0.49)
+	Line 14878: Camera rotation: (45.00, 119.39, 0.00)
+	Line 14887: Frame_Num:402
+	Line 14896: Angle: 209.8872
+	Line 14905: Camera position: (1.13, 2.00, 0.50)
+	Line 14914: Camera rotation: (45.00, 119.89, 0.00)
+	Line 14923: Frame_Num:403
+	Line 14932: Angle: 210.3983
+	Line 14941: Camera position: (1.14, 2.00, 0.51)
+	Line 14950: Camera rotation: (45.00, 120.40, 0.00)
+	Line 14959: Frame_Num:404
+	Line 14968: Angle: 210.9426
+	Line 14977: Camera position: (1.14, 2.00, 0.51)
+	Line 14986: Camera rotation: (45.00, 120.94, 0.00)
+	Line 14995: Frame_Num:405
+	Line 15004: Angle: 211.4496
+	Line 15013: Camera position: (1.15, 2.00, 0.52)
+	Line 15022: Camera rotation: (45.00, 121.45, 0.00)
+	Line 15031: Frame_Num:406
+	Line 15040: Angle: 211.9647
+	Line 15049: Camera position: (1.15, 2.00, 0.53)
+	Line 15058: Camera rotation: (45.00, 121.97, 0.00)
+	Line 15067: Frame_Num:407
+	Line 15076: Angle: 212.4879
+	Line 15085: Camera position: (1.16, 2.00, 0.54)
+	Line 15094: Camera rotation: (45.00, 122.49, 0.00)
+	Line 15103: Frame_Num:408
+	Line 15112: Angle: 213.025
+	Line 15121: Camera position: (1.16, 2.00, 0.55)
+	Line 15130: Camera rotation: (45.00, 123.03, 0.00)
+	Line 15139: Frame_Num:409
+	Line 15148: Angle: 213.5507
+	Line 15157: Camera position: (1.17, 2.00, 0.55)
+	Line 15166: Camera rotation: (45.00, 123.55, 0.00)
+	Line 15175: Frame_Num:410
+	Line 15184: Angle: 214.0555
+	Line 15193: Camera position: (1.17, 2.00, 0.56)
+	Line 15202: Camera rotation: (45.00, 124.06, 0.00)
+	Line 15211: Frame_Num:411
+	Line 15220: Angle: 214.5905
+	Line 15229: Camera position: (1.18, 2.00, 0.57)
+	Line 15238: Camera rotation: (45.00, 124.59, 0.00)
+	Line 15247: Frame_Num:412
+	Line 15256: Angle: 215.0977
+	Line 15265: Camera position: (1.18, 2.00, 0.57)
+	Line 15274: Camera rotation: (45.00, 125.10, 0.00)
+	Line 15283: Frame_Num:413
+	Line 15292: Angle: 215.6247
+	Line 15301: Camera position: (1.19, 2.00, 0.58)
+	Line 15310: Camera rotation: (45.00, 125.63, 0.00)
+	Line 15319: Frame_Num:414
+	Line 15328: Angle: 216.1632
+	Line 15337: Camera position: (1.19, 2.00, 0.59)
+	Line 15346: Camera rotation: (45.00, 126.16, 0.00)
+	Line 15355: Frame_Num:415
+	Line 15364: Angle: 216.6663
+	Line 15373: Camera position: (1.20, 2.00, 0.60)
+	Line 15382: Camera rotation: (45.00, 126.67, 0.00)
+	Line 15391: Frame_Num:416
+	Line 15400: Angle: 217.1847
+	Line 15409: Camera position: (1.20, 2.00, 0.60)
+	Line 15418: Camera rotation: (45.00, 127.19, 0.00)
+	Line 15428: Frame_Num:417
+	Line 15437: Angle: 217.6874
+	Line 15446: Camera position: (1.21, 2.00, 0.61)
+	Line 15455: Camera rotation: (45.00, 127.69, 0.00)
+	Line 15464: Frame_Num:418
+	Line 15473: Angle: 218.2252
+	Line 15482: Camera position: (1.21, 2.00, 0.62)
+	Line 15491: Camera rotation: (45.00, 128.23, 0.00)
+	Line 15500: Frame_Num:419
+	Line 15509: Angle: 218.7302
+	Line 15518: Camera position: (1.22, 2.00, 0.63)
+	Line 15527: Camera rotation: (45.00, 128.73, 0.00)
+	Line 15536: Frame_Num:420
+	Line 15545: Angle: 219.2316
+	Line 15554: Camera position: (1.23, 2.00, 0.63)
+	Line 15563: Camera rotation: (45.00, 129.23, 0.00)
+	Line 15572: Frame_Num:421
+	Line 15581: Angle: 219.7393
+	Line 15590: Camera position: (1.23, 2.00, 0.64)
+	Line 15599: Camera rotation: (45.00, 129.74, 0.00)
+	Line 15608: Frame_Num:422
+	Line 15617: Angle: 220.244
+	Line 15626: Camera position: (1.24, 2.00, 0.65)
+	Line 15635: Camera rotation: (45.00, 130.25, 0.00)
+	Line 15644: Frame_Num:423
+	Line 15653: Angle: 220.7479
+	Line 15662: Camera position: (1.24, 2.00, 0.65)
+	Line 15671: Camera rotation: (45.00, 130.75, 0.00)
+	Line 15680: Frame_Num:424
+	Line 15689: Angle: 221.2643
+	Line 15698: Camera position: (1.25, 2.00, 0.66)
+	Line 15707: Camera rotation: (45.00, 131.27, 0.00)
+	Line 15716: Frame_Num:425
+	Line 15725: Angle: 221.7807
+	Line 15734: Camera position: (1.25, 2.00, 0.67)
+	Line 15743: Camera rotation: (45.00, 131.78, 0.00)
+	Line 15752: Frame_Num:426
+	Line 15761: Angle: 222.2916
+	Line 15770: Camera position: (1.26, 2.00, 0.67)
+	Line 15779: Camera rotation: (45.00, 132.29, 0.00)
+	Line 15788: Frame_Num:427
+	Line 15797: Angle: 222.8249
+	Line 15806: Camera position: (1.27, 2.00, 0.68)
+	Line 15815: Camera rotation: (45.00, 132.83, 0.00)
+	Line 15824: Frame_Num:428
+	Line 15833: Angle: 223.349
+	Line 15842: Camera position: (1.27, 2.00, 0.69)
+	Line 15851: Camera rotation: (45.00, 133.35, 0.00)
+	Line 15860: Frame_Num:429
+	Line 15869: Angle: 223.8745
+	Line 15878: Camera position: (1.28, 2.00, 0.69)
+	Line 15887: Camera rotation: (45.00, 133.88, 0.00)
+	Line 15896: Frame_Num:430
+	Line 15905: Angle: 224.388
+	Line 15914: Camera position: (1.29, 2.00, 0.70)
+	Line 15923: Camera rotation: (45.00, 134.39, 0.00)
+	Line 15932: Frame_Num:431
+	Line 15941: Angle: 224.8907
+	Line 15950: Camera position: (1.29, 2.00, 0.71)
+	Line 15959: Camera rotation: (45.00, 134.89, 0.00)
+	Line 15968: Frame_Num:432
+	Line 15977: Angle: 225.4035
+	Line 15986: Camera position: (1.30, 2.00, 0.71)
+	Line 15995: Camera rotation: (45.00, 135.41, 0.00)
+	Line 16004: Frame_Num:433
+	Line 16013: Angle: 225.9108
+	Line 16022: Camera position: (1.30, 2.00, 0.72)
+	Line 16031: Camera rotation: (45.00, 135.91, 0.00)
+	Line 16040: Frame_Num:434
+	Line 16049: Angle: 226.4354
+	Line 16058: Camera position: (1.31, 2.00, 0.72)
+	Line 16067: Camera rotation: (45.00, 136.44, 0.00)
+	Line 16076: Frame_Num:435
+	Line 16085: Angle: 226.9403
+	Line 16094: Camera position: (1.32, 2.00, 0.73)
+	Line 16103: Camera rotation: (45.00, 136.94, 0.00)
+	Line 16112: Frame_Num:436
+	Line 16121: Angle: 227.444
+	Line 16130: Camera position: (1.32, 2.00, 0.74)
+	Line 16139: Camera rotation: (45.00, 137.45, 0.00)
+	Line 16148: Frame_Num:437
+	Line 16157: Angle: 227.9643
+	Line 16166: Camera position: (1.33, 2.00, 0.74)
+	Line 16175: Camera rotation: (45.00, 137.97, 0.00)
+	Line 16184: Frame_Num:438
+	Line 16193: Angle: 228.4851
+	Line 16202: Camera position: (1.34, 2.00, 0.75)
+	Line 16211: Camera rotation: (45.00, 138.49, 0.00)
+	Line 16220: Frame_Num:439
+	Line 16229: Angle: 228.9916
+	Line 16238: Camera position: (1.34, 2.00, 0.75)
+	Line 16247: Camera rotation: (45.00, 138.99, 0.00)
+	Line 16256: Frame_Num:440
+	Line 16265: Angle: 229.4948
+	Line 16274: Camera position: (1.35, 2.00, 0.76)
+	Line 16283: Camera rotation: (45.00, 139.50, 0.00)
+	Line 16292: Frame_Num:441
+	Line 16301: Angle: 229.9952
+	Line 16310: Camera position: (1.36, 2.00, 0.77)
+	Line 16319: Camera rotation: (45.00, 140.00, 0.00)
+	Line 16328: Frame_Num:442
+	Line 16337: Angle: 230.5057
+	Line 16346: Camera position: (1.36, 2.00, 0.77)
+	Line 16355: Camera rotation: (45.00, 140.51, 0.00)
+	Line 16364: Frame_Num:443
+	Line 16373: Angle: 231.009
+	Line 16382: Camera position: (1.37, 2.00, 0.78)
+	Line 16391: Camera rotation: (45.00, 141.01, 0.00)
+	Line 16400: Frame_Num:444
+	Line 16409: Angle: 231.5101
+	Line 16418: Camera position: (1.38, 2.00, 0.78)
+	Line 16427: Camera rotation: (45.00, 141.51, 0.00)
+	Line 16436: Frame_Num:445
+	Line 16445: Angle: 232.0251
+	Line 16454: Camera position: (1.38, 2.00, 0.79)
+	Line 16463: Camera rotation: (45.00, 142.03, 0.00)
+	Line 16472: Frame_Num:446
+	Line 16481: Angle: 232.5384
+	Line 16490: Camera position: (1.39, 2.00, 0.79)
+	Line 16499: Camera rotation: (45.00, 142.54, 0.00)
+	Line 16508: Frame_Num:447
+	Line 16517: Angle: 233.0458
+	Line 16526: Camera position: (1.40, 2.00, 0.80)
+	Line 16535: Camera rotation: (45.00, 143.05, 0.00)
+	Line 16544: Frame_Num:448
+	Line 16553: Angle: 233.5749
+	Line 16562: Camera position: (1.41, 2.00, 0.80)
+	Line 16571: Camera rotation: (45.00, 143.58, 0.00)
+	Line 16580: Frame_Num:449
+	Line 16589: Angle: 234.0783
+	Line 16598: Camera position: (1.41, 2.00, 0.81)
+	Line 16607: Camera rotation: (45.00, 144.08, 0.00)
+	Line 16616: Frame_Num:450
+	Line 16625: Angle: 234.5794
+	Line 16634: Camera position: (1.42, 2.00, 0.81)
+	Line 16643: Camera rotation: (45.00, 144.58, 0.00)
+	Line 16652: Frame_Num:451
+	Line 16661: Angle: 235.0968
+	Line 16670: Camera position: (1.43, 2.00, 0.82)
+	Line 16679: Camera rotation: (45.00, 145.10, 0.00)
+	Line 16688: Frame_Num:452
+	Line 16697: Angle: 235.6085
+	Line 16706: Camera position: (1.44, 2.00, 0.83)
+	Line 16715: Camera rotation: (45.00, 145.61, 0.00)
+	Line 16724: Frame_Num:453
+	Line 16733: Angle: 236.1224
+	Line 16742: Camera position: (1.44, 2.00, 0.83)
+	Line 16751: Camera rotation: (45.00, 146.12, 0.00)
+	Line 16760: Frame_Num:454
+	Line 16769: Angle: 236.6231
+	Line 16778: Camera position: (1.45, 2.00, 0.84)
+	Line 16787: Camera rotation: (45.00, 146.62, 0.00)
+	Line 16796: Frame_Num:455
+	Line 16805: Angle: 237.1307
+	Line 16814: Camera position: (1.46, 2.00, 0.84)
+	Line 16823: Camera rotation: (45.00, 147.13, 0.00)
+	Line 16832: Frame_Num:456
+	Line 16841: Angle: 237.6352
+	Line 16850: Camera position: (1.46, 2.00, 0.84)
+	Line 16859: Camera rotation: (45.00, 147.64, 0.00)
+	Line 16868: Frame_Num:457
+	Line 16877: Angle: 238.1529
+	Line 16886: Camera position: (1.47, 2.00, 0.85)
+	Line 16895: Camera rotation: (45.00, 148.15, 0.00)
+	Line 16904: Frame_Num:458
+	Line 16913: Angle: 238.667
+	Line 16922: Camera position: (1.48, 2.00, 0.85)
+	Line 16931: Camera rotation: (45.00, 148.67, 0.00)
+	Line 16940: Frame_Num:459
+	Line 16949: Angle: 239.1673
+	Line 16958: Camera position: (1.49, 2.00, 0.86)
+	Line 16967: Camera rotation: (45.00, 149.17, 0.00)
+	Line 16976: Frame_Num:460
+	Line 16985: Angle: 239.6818
+	Line 16994: Camera position: (1.50, 2.00, 0.86)
+	Line 17003: Camera rotation: (45.00, 149.68, 0.00)
+	Line 17012: Frame_Num:461
+	Line 17021: Angle: 240.1906
+	Line 17030: Camera position: (1.50, 2.00, 0.87)
+	Line 17039: Camera rotation: (45.00, 150.19, 0.00)
+	Line 17048: Frame_Num:462
+	Line 17057: Angle: 240.7033
+	Line 17066: Camera position: (1.51, 2.00, 0.87)
+	Line 17075: Camera rotation: (45.00, 150.70, 0.00)
+	Line 17084: Frame_Num:463
+	Line 17093: Angle: 241.2033
+	Line 17102: Camera position: (1.52, 2.00, 0.88)
+	Line 17111: Camera rotation: (45.00, 151.20, 0.00)
+	Line 17120: Frame_Num:464
+	Line 17129: Angle: 241.7232
+	Line 17138: Camera position: (1.53, 2.00, 0.88)
+	Line 17147: Camera rotation: (45.00, 151.72, 0.00)
+	Line 17156: Frame_Num:465
+	Line 17165: Angle: 242.2343
+	Line 17174: Camera position: (1.53, 2.00, 0.88)
+	Line 17183: Camera rotation: (45.00, 152.24, 0.00)
+	Line 17192: Frame_Num:466
+	Line 17201: Angle: 242.7417
+	Line 17210: Camera position: (1.54, 2.00, 0.89)
+	Line 17219: Camera rotation: (45.00, 152.74, 0.00)
+	Line 17228: Frame_Num:467
+	Line 17237: Angle: 243.2424
+	Line 17246: Camera position: (1.55, 2.00, 0.89)
+	Line 17255: Camera rotation: (45.00, 153.24, 0.00)
+	Line 17264: Frame_Num:468
+	Line 17273: Angle: 243.7486
+	Line 17282: Camera position: (1.56, 2.00, 0.90)
+	Line 17291: Camera rotation: (45.00, 153.75, 0.00)
+	Line 17300: Frame_Num:469
+	Line 17309: Angle: 244.2735
+	Line 17318: Camera position: (1.57, 2.00, 0.90)
+	Line 17327: Camera rotation: (45.00, 154.27, 0.00)
+	Line 17336: Frame_Num:470
+	Line 17345: Angle: 244.7751
+	Line 17354: Camera position: (1.57, 2.00, 0.90)
+	Line 17363: Camera rotation: (45.00, 154.78, 0.00)
+	Line 17372: Frame_Num:471
+	Line 17381: Angle: 245.2816
+	Line 17390: Camera position: (1.58, 2.00, 0.91)
+	Line 17399: Camera rotation: (45.00, 155.28, 0.00)
+	Line 17408: Frame_Num:472
+	Line 17417: Angle: 245.7823
+	Line 17426: Camera position: (1.59, 2.00, 0.91)
+	Line 17435: Camera rotation: (45.00, 155.78, 0.00)
+	Line 17444: Frame_Num:473
+	Line 17453: Angle: 246.2955
+	Line 17462: Camera position: (1.60, 2.00, 0.92)
+	Line 17471: Camera rotation: (45.00, 156.30, 0.00)
+	Line 17480: Frame_Num:474
+	Line 17489: Angle: 246.8264
+	Line 17498: Camera position: (1.61, 2.00, 0.92)
+	Line 17507: Camera rotation: (45.00, 156.83, 0.00)
+	Line 17516: Frame_Num:475
+	Line 17525: Angle: 247.3273
+	Line 17534: Camera position: (1.61, 2.00, 0.92)
+	Line 17543: Camera rotation: (45.00, 157.33, 0.00)
+	Line 17552: Frame_Num:476
+	Line 17561: Angle: 247.8465
+	Line 17570: Camera position: (1.62, 2.00, 0.93)
+	Line 17579: Camera rotation: (45.00, 157.85, 0.00)
+	Line 17588: Frame_Num:477
+	Line 17597: Angle: 248.3685
+	Line 17606: Camera position: (1.63, 2.00, 0.93)
+	Line 17615: Camera rotation: (45.00, 158.37, 0.00)
+	Line 17624: Frame_Num:478
+	Line 17633: Angle: 248.8878
+	Line 17642: Camera position: (1.64, 2.00, 0.93)
+	Line 17651: Camera rotation: (45.00, 158.89, 0.00)
+	Line 17660: Frame_Num:479
+	Line 17669: Angle: 249.3997
+	Line 17678: Camera position: (1.65, 2.00, 0.94)
+	Line 17687: Camera rotation: (45.00, 159.40, 0.00)
+	Line 17696: Frame_Num:480
+	Line 17705: Angle: 249.9081
+	Line 17714: Camera position: (1.66, 2.00, 0.94)
+	Line 17723: Camera rotation: (45.00, 159.91, 0.00)
+	Line 17732: Frame_Num:481
+	Line 17741: Angle: 250.4168
+	Line 17750: Camera position: (1.66, 2.00, 0.94)
+	Line 17759: Camera rotation: (45.00, 160.42, 0.00)
+	Line 17768: Frame_Num:482
+	Line 17777: Angle: 250.924
+	Line 17786: Camera position: (1.67, 2.00, 0.95)
+	Line 17795: Camera rotation: (45.00, 160.93, 0.00)
+	Line 17804: Frame_Num:483
+	Line 17813: Angle: 251.4294
+	Line 17822: Camera position: (1.68, 2.00, 0.95)
+	Line 17831: Camera rotation: (45.00, 161.43, 0.00)
+	Line 17840: Frame_Num:484
+	Line 17849: Angle: 251.9602
+	Line 17858: Camera position: (1.69, 2.00, 0.95)
+	Line 17867: Camera rotation: (45.00, 161.96, 0.00)
+	Line 17876: Frame_Num:485
+	Line 17885: Angle: 252.4666
+	Line 17894: Camera position: (1.70, 2.00, 0.95)
+	Line 17903: Camera rotation: (45.00, 162.47, 0.00)
+	Line 17912: Frame_Num:486
+	Line 17921: Angle: 252.9722
+	Line 17930: Camera position: (1.71, 2.00, 0.96)
+	Line 17939: Camera rotation: (45.00, 162.97, 0.00)
+	Line 17948: Frame_Num:487
+	Line 17957: Angle: 253.4815
+	Line 17966: Camera position: (1.72, 2.00, 0.96)
+	Line 17975: Camera rotation: (45.00, 163.48, 0.00)
+	Line 17984: Frame_Num:488
+	Line 17993: Angle: 253.9868
+	Line 18002: Camera position: (1.72, 2.00, 0.96)
+	Line 18011: Camera rotation: (45.00, 163.99, 0.00)
+	Line 18020: Frame_Num:489
+	Line 18029: Angle: 254.4886
+	Line 18038: Camera position: (1.73, 2.00, 0.96)
+	Line 18047: Camera rotation: (45.00, 164.49, 0.00)
+	Line 18056: Frame_Num:490
+	Line 18065: Angle: 255.0022
+	Line 18074: Camera position: (1.74, 2.00, 0.97)
+	Line 18083: Camera rotation: (45.00, 165.00, 0.00)
+	Line 18092: Frame_Num:491
+	Line 18101: Angle: 255.5114
+	Line 18110: Camera position: (1.75, 2.00, 0.97)
+	Line 18119: Camera rotation: (45.00, 165.51, 0.00)
+	Line 18128: Frame_Num:492
+	Line 18137: Angle: 256.0191
+	Line 18146: Camera position: (1.76, 2.00, 0.97)
+	Line 18155: Camera rotation: (45.00, 166.02, 0.00)
+	Line 18164: Frame_Num:493
+	Line 18173: Angle: 256.5293
+	Line 18182: Camera position: (1.77, 2.00, 0.97)
+	Line 18191: Camera rotation: (45.00, 166.53, 0.00)
+	Line 18200: Frame_Num:494
+	Line 18209: Angle: 257.0409
+	Line 18218: Camera position: (1.78, 2.00, 0.97)
+	Line 18227: Camera rotation: (45.00, 167.04, 0.00)
+	Line 18236: Frame_Num:495
+	Line 18245: Angle: 257.5421
+	Line 18254: Camera position: (1.78, 2.00, 0.98)
+	Line 18263: Camera rotation: (45.00, 167.54, 0.00)
+	Line 18272: Frame_Num:496
+	Line 18281: Angle: 258.0562
+	Line 18290: Camera position: (1.79, 2.00, 0.98)
+	Line 18299: Camera rotation: (45.00, 168.06, 0.00)
+	Line 18308: Frame_Num:497
+	Line 18317: Angle: 258.5572
+	Line 18326: Camera position: (1.80, 2.00, 0.98)
+	Line 18335: Camera rotation: (45.00, 168.56, 0.00)
+	Line 18344: Frame_Num:498
+	Line 18353: Angle: 259.0604
+	Line 18362: Camera position: (1.81, 2.00, 0.98)
+	Line 18371: Camera rotation: (45.00, 169.06, 0.00)
+	Line 18380: Frame_Num:499
+	Line 18389: Angle: 259.5867
+	Line 18398: Camera position: (1.82, 2.00, 0.98)
+	Line 18407: Camera rotation: (45.00, 169.59, 0.00)
+	Line 18416: Frame_Num:500
+	Line 18425: Angle: 260.0873
+	Line 18434: Camera position: (1.83, 2.00, 0.99)
+	Line 18443: Camera rotation: (45.00, 170.09, 0.00)
+	Line 18452: Frame_Num:501
+	Line 18461: Angle: 260.595
+	Line 18470: Camera position: (1.84, 2.00, 0.99)
+	Line 18479: Camera rotation: (45.00, 170.60, 0.00)
+	Line 18488: Frame_Num:502
+	Line 18497: Angle: 261.1065
+	Line 18506: Camera position: (1.85, 2.00, 0.99)
+	Line 18515: Camera rotation: (45.00, 171.11, 0.00)
+	Line 18524: Frame_Num:503
+	Line 18533: Angle: 261.6105
+	Line 18542: Camera position: (1.85, 2.00, 0.99)
+	Line 18551: Camera rotation: (45.00, 171.61, 0.00)
+	Line 18560: Frame_Num:504
+	Line 18569: Angle: 262.1285
+	Line 18578: Camera position: (1.86, 2.00, 0.99)
+	Line 18587: Camera rotation: (45.00, 172.13, 0.00)
+	Line 18596: Frame_Num:505
+	Line 18605: Angle: 262.6425
+	Line 18614: Camera position: (1.87, 2.00, 0.99)
+	Line 18623: Camera rotation: (45.00, 172.64, 0.00)
+	Line 18632: Frame_Num:506
+	Line 18641: Angle: 263.1456
+	Line 18650: Camera position: (1.88, 2.00, 0.99)
+	Line 18659: Camera rotation: (45.00, 173.15, 0.00)
+	Line 18668: Frame_Num:507
+	Line 18677: Angle: 263.6647
+	Line 18686: Camera position: (1.89, 2.00, 0.99)
+	Line 18695: Camera rotation: (45.00, 173.67, 0.00)
+	Line 18704: Frame_Num:508
+	Line 18713: Angle: 264.1661
+	Line 18722: Camera position: (1.90, 2.00, 0.99)
+	Line 18731: Camera rotation: (45.00, 174.17, 0.00)
+	Line 18740: Frame_Num:509
+	Line 18749: Angle: 264.6955
+	Line 18758: Camera position: (1.91, 2.00, 1.00)
+	Line 18767: Camera rotation: (45.00, 174.70, 0.00)
+	Line 18776: Frame_Num:510
+	Line 18785: Angle: 265.2115
+	Line 18794: Camera position: (1.92, 2.00, 1.00)
+	Line 18803: Camera rotation: (45.00, 175.21, 0.00)
+	Line 18812: Frame_Num:511
+	Line 18821: Angle: 265.7161
+	Line 18830: Camera position: (1.93, 2.00, 1.00)
+	Line 18839: Camera rotation: (45.00, 175.72, 0.00)
+	Line 18848: Frame_Num:512
+	Line 18857: Angle: 266.2162
+	Line 18866: Camera position: (1.93, 2.00, 1.00)
+	Line 18875: Camera rotation: (45.00, 176.22, 0.00)
+	Line 18884: Frame_Num:513
+	Line 18893: Angle: 266.731
+	Line 18902: Camera position: (1.94, 2.00, 1.00)
+	Line 18911: Camera rotation: (45.00, 176.73, 0.00)
+	Line 18920: Frame_Num:514
+	Line 18929: Angle: 267.2635
+	Line 18938: Camera position: (1.95, 2.00, 1.00)
+	Line 18947: Camera rotation: (45.00, 177.27, 0.00)
+	Line 18956: Frame_Num:515
+	Line 18965: Angle: 267.7772
+	Line 18974: Camera position: (1.96, 2.00, 1.00)
+	Line 18983: Camera rotation: (45.00, 177.78, 0.00)
+	Line 18992: Frame_Num:516
+	Line 19001: Angle: 268.3
+	Line 19010: Camera position: (1.97, 2.00, 1.00)
+	Line 19019: Camera rotation: (45.00, 178.30, 0.00)
+	Line 19028: Frame_Num:517
+	Line 19037: Angle: 268.8178
+	Line 19046: Camera position: (1.98, 2.00, 1.00)
+	Line 19055: Camera rotation: (45.00, 178.82, 0.00)
+	Line 19064: Frame_Num:518
+	Line 19073: Angle: 269.3381
+	Line 19082: Camera position: (1.99, 2.00, 1.00)
+	Line 19091: Camera rotation: (45.00, 179.34, 0.00)
+	Line 19100: Frame_Num:519
+	Line 19109: Angle: 269.8488
+	Line 19118: Camera position: (2.00, 2.00, 1.00)
+	Line 19127: Camera rotation: (45.00, 179.85, 0.00)
+	Line 19136: Frame_Num:520
+	Line 19145: Angle: 270.3589
+	Line 19154: Camera position: (2.01, 2.00, 1.00)
+	Line 19163: Camera rotation: (45.00, 180.36, 0.00)
+	Line 19172: Frame_Num:521
+	Line 19181: Angle: 270.8603
+	Line 19190: Camera position: (2.02, 2.00, 1.00)
+	Line 19199: Camera rotation: (45.00, 180.86, 0.00)
+	Line 19208: Frame_Num:522
+	Line 19217: Angle: 271.3644
+	Line 19226: Camera position: (2.02, 2.00, 1.00)
+	Line 19235: Camera rotation: (45.00, 181.37, 0.00)
+	Line 19244: Frame_Num:523
+	Line 19253: Angle: 271.8794
+	Line 19262: Camera position: (2.03, 2.00, 1.00)
+	Line 19271: Camera rotation: (45.00, 181.88, 0.00)
+	Line 19280: Frame_Num:524
+	Line 19289: Angle: 272.3794
+	Line 19298: Camera position: (2.04, 2.00, 1.00)
+	Line 19307: Camera rotation: (45.00, 182.38, 0.00)
+	Line 19316: Frame_Num:525
+	Line 19325: Angle: 272.8843
+	Line 19334: Camera position: (2.05, 2.00, 1.00)
+	Line 19343: Camera rotation: (45.00, 182.89, 0.00)
+	Line 19352: Frame_Num:526
+	Line 19361: Angle: 273.4026
+	Line 19370: Camera position: (2.06, 2.00, 1.00)
+	Line 19379: Camera rotation: (45.00, 183.40, 0.00)
+	Line 19388: Frame_Num:527
+	Line 19397: Angle: 273.9065
+	Line 19406: Camera position: (2.07, 2.00, 1.00)
+	Line 19415: Camera rotation: (45.00, 183.91, 0.00)
+	Line 19424: Frame_Num:528
+	Line 19433: Angle: 274.4407
+	Line 19442: Camera position: (2.08, 2.00, 1.00)
+	Line 19451: Camera rotation: (45.00, 184.44, 0.00)
+	Line 19460: Frame_Num:529
+	Line 19469: Angle: 274.9514
+	Line 19478: Camera position: (2.09, 2.00, 1.00)
+	Line 19487: Camera rotation: (45.00, 184.95, 0.00)
+	Line 19496: Frame_Num:530
+	Line 19505: Angle: 275.4529
+	Line 19514: Camera position: (2.10, 2.00, 1.00)
+	Line 19523: Camera rotation: (45.00, 185.45, 0.00)
+	Line 19532: Frame_Num:531
+	Line 19541: Angle: 275.9631
+	Line 19550: Camera position: (2.10, 2.00, 0.99)
+	Line 19559: Camera rotation: (45.00, 185.96, 0.00)
+	Line 19568: Frame_Num:532
+	Line 19577: Angle: 276.4642
+	Line 19586: Camera position: (2.11, 2.00, 0.99)
+	Line 19595: Camera rotation: (45.00, 186.47, 0.00)
+	Line 19604: Frame_Num:533
+	Line 19613: Angle: 276.9695
+	Line 19622: Camera position: (2.12, 2.00, 0.99)
+	Line 19631: Camera rotation: (45.00, 186.97, 0.00)
+	Line 19640: Frame_Num:534
+	Line 19649: Angle: 277.4747
+	Line 19658: Camera position: (2.13, 2.00, 0.99)
+	Line 19667: Camera rotation: (45.00, 187.48, 0.00)
+	Line 19676: Frame_Num:535
+	Line 19685: Angle: 277.9846
+	Line 19694: Camera position: (2.14, 2.00, 0.99)
+	Line 19703: Camera rotation: (45.00, 187.99, 0.00)
+	Line 19712: Frame_Num:536
+	Line 19721: Angle: 278.4987
+	Line 19730: Camera position: (2.15, 2.00, 0.99)
+	Line 19739: Camera rotation: (45.00, 188.50, 0.00)
+	Line 19748: Frame_Num:537
+	Line 19757: Angle: 279.0092
+	Line 19766: Camera position: (2.16, 2.00, 0.99)
+	Line 19775: Camera rotation: (45.00, 189.01, 0.00)
+	Line 19784: Frame_Num:538
+	Line 19793: Angle: 279.5253
+	Line 19802: Camera position: (2.17, 2.00, 0.99)
+	Line 19811: Camera rotation: (45.00, 189.53, 0.00)
+	Line 19820: Frame_Num:539
+	Line 19829: Angle: 280.0471
+	Line 19838: Camera position: (2.17, 2.00, 0.98)
+	Line 19847: Camera rotation: (45.00, 190.05, 0.00)
+	Line 19856: Frame_Num:540
+	Line 19865: Angle: 280.56
+	Line 19874: Camera position: (2.18, 2.00, 0.98)
+	Line 19883: Camera rotation: (45.00, 190.56, 0.00)
+	Line 19892: Frame_Num:541
+	Line 19901: Angle: 281.0601
+	Line 19910: Camera position: (2.19, 2.00, 0.98)
+	Line 19919: Camera rotation: (45.00, 191.06, 0.00)
+	Line 19928: Frame_Num:542
+	Line 19937: Angle: 281.567
+	Line 19946: Camera position: (2.20, 2.00, 0.98)
+	Line 19955: Camera rotation: (45.00, 191.57, 0.00)
+	Line 19964: Frame_Num:543
+	Line 19973: Angle: 282.0767
+	Line 19982: Camera position: (2.21, 2.00, 0.98)
+	Line 19991: Camera rotation: (45.00, 192.08, 0.00)
+	Line 20000: Frame_Num:544
+	Line 20009: Angle: 282.642
+	Line 20018: Camera position: (2.22, 2.00, 0.98)
+	Line 20027: Camera rotation: (45.00, 192.64, 0.00)
+	Line 20036: Frame_Num:545
+	Line 20045: Angle: 283.1547
+	Line 20054: Camera position: (2.23, 2.00, 0.97)
+	Line 20063: Camera rotation: (45.00, 193.16, 0.00)
+	Line 20072: Frame_Num:546
+	Line 20081: Angle: 283.6559
+	Line 20090: Camera position: (2.24, 2.00, 0.97)
+	Line 20099: Camera rotation: (45.00, 193.66, 0.00)
+	Line 20108: Frame_Num:547
+	Line 20117: Angle: 284.1584
+	Line 20126: Camera position: (2.24, 2.00, 0.97)
+	Line 20135: Camera rotation: (45.00, 194.16, 0.00)
+	Line 20144: Frame_Num:548
+	Line 20153: Angle: 284.6889
+	Line 20162: Camera position: (2.25, 2.00, 0.97)
+	Line 20171: Camera rotation: (45.00, 194.69, 0.00)
+	Line 20180: Frame_Num:549
+	Line 20189: Angle: 285.2081
+	Line 20198: Camera position: (2.26, 2.00, 0.96)
+	Line 20207: Camera rotation: (45.00, 195.21, 0.00)
+	Line 20216: Frame_Num:550
+	Line 20225: Angle: 285.7163
+	Line 20234: Camera position: (2.27, 2.00, 0.96)
+	Line 20243: Camera rotation: (45.00, 195.72, 0.00)
+	Line 20252: Frame_Num:551
+	Line 20261: Angle: 286.2297
+	Line 20270: Camera position: (2.28, 2.00, 0.96)
+	Line 20279: Camera rotation: (45.00, 196.23, 0.00)
+	Line 20288: Frame_Num:552
+	Line 20297: Angle: 286.7412
+	Line 20306: Camera position: (2.29, 2.00, 0.96)
+	Line 20315: Camera rotation: (45.00, 196.74, 0.00)
+	Line 20324: Frame_Num:553
+	Line 20333: Angle: 287.2449
+	Line 20342: Camera position: (2.30, 2.00, 0.96)
+	Line 20351: Camera rotation: (45.00, 197.25, 0.00)
+	Line 20360: Frame_Num:554
+	Line 20369: Angle: 287.7473
+	Line 20378: Camera position: (2.30, 2.00, 0.95)
+	Line 20387: Camera rotation: (45.00, 197.75, 0.00)
+	Line 20396: Frame_Num:555
+	Line 20405: Angle: 288.2592
+	Line 20414: Camera position: (2.31, 2.00, 0.95)
+	Line 20423: Camera rotation: (45.00, 198.26, 0.00)
+	Line 20432: Frame_Num:556
+	Line 20441: Angle: 288.8031
+	Line 20450: Camera position: (2.32, 2.00, 0.95)
+	Line 20459: Camera rotation: (45.00, 198.80, 0.00)
+	Line 20468: Frame_Num:557
+	Line 20477: Angle: 289.3154
+	Line 20486: Camera position: (2.33, 2.00, 0.94)
+	Line 20495: Camera rotation: (45.00, 199.32, 0.00)
+	Line 20504: Frame_Num:558
+	Line 20513: Angle: 289.8419
+	Line 20522: Camera position: (2.34, 2.00, 0.94)
+	Line 20531: Camera rotation: (45.00, 199.84, 0.00)
+	Line 20540: Frame_Num:559
+	Line 20549: Angle: 290.3593
+	Line 20558: Camera position: (2.35, 2.00, 0.94)
+	Line 20567: Camera rotation: (45.00, 200.36, 0.00)
+	Line 20576: Frame_Num:560
+	Line 20585: Angle: 290.8733
+	Line 20594: Camera position: (2.36, 2.00, 0.93)
+	Line 20603: Camera rotation: (45.00, 200.87, 0.00)
+	Line 20612: Frame_Num:561
+	Line 20621: Angle: 291.4133
+	Line 20630: Camera position: (2.37, 2.00, 0.93)
+	Line 20639: Camera rotation: (45.00, 201.41, 0.00)
+	Line 20648: Frame_Num:562
+	Line 20657: Angle: 291.9393
+	Line 20666: Camera position: (2.37, 2.00, 0.93)
+	Line 20675: Camera rotation: (45.00, 201.94, 0.00)
+	Line 20684: Frame_Num:563
+	Line 20693: Angle: 292.4555
+	Line 20702: Camera position: (2.38, 2.00, 0.92)
+	Line 20711: Camera rotation: (45.00, 202.46, 0.00)
+	Line 20720: Frame_Num:564
+	Line 20729: Angle: 292.9784
+	Line 20738: Camera position: (2.39, 2.00, 0.92)
+	Line 20747: Camera rotation: (45.00, 202.98, 0.00)
+	Line 20756: Frame_Num:565
+	Line 20765: Angle: 293.5102
+	Line 20774: Camera position: (2.40, 2.00, 0.92)
+	Line 20783: Camera rotation: (45.00, 203.51, 0.00)
+	Line 20793: Frame_Num:566
+	Line 20802: Angle: 294.0109
+	Line 20811: Camera position: (2.41, 2.00, 0.91)
+	Line 20820: Camera rotation: (45.00, 204.01, 0.00)
+	Line 20829: Frame_Num:567
+	Line 20838: Angle: 294.5284
+	Line 20847: Camera position: (2.42, 2.00, 0.91)
+	Line 20856: Camera rotation: (45.00, 204.53, 0.00)
+	Line 20865: Frame_Num:568
+	Line 20874: Angle: 295.0464
+	Line 20883: Camera position: (2.42, 2.00, 0.91)
+	Line 20892: Camera rotation: (45.00, 205.05, 0.00)
+	Line 20901: Frame_Num:569
+	Line 20910: Angle: 295.5552
+	Line 20919: Camera position: (2.43, 2.00, 0.90)
+	Line 20928: Camera rotation: (45.00, 205.56, 0.00)
+	Line 20937: Frame_Num:570
+	Line 20946: Angle: 296.0713
+	Line 20955: Camera position: (2.44, 2.00, 0.90)
+	Line 20964: Camera rotation: (45.00, 206.07, 0.00)
+	Line 20973: Frame_Num:571
+	Line 20982: Angle: 296.5858
+	Line 20991: Camera position: (2.45, 2.00, 0.89)
+	Line 21000: Camera rotation: (45.00, 206.59, 0.00)
+	Line 21009: Frame_Num:572
+	Line 21018: Angle: 297.0972
+	Line 21027: Camera position: (2.46, 2.00, 0.89)
+	Line 21036: Camera rotation: (45.00, 207.10, 0.00)
+	Line 21045: Frame_Num:573
+	Line 21054: Angle: 297.6111
+	Line 21063: Camera position: (2.46, 2.00, 0.89)
+	Line 21072: Camera rotation: (45.00, 207.61, 0.00)
+	Line 21081: Frame_Num:574
+	Line 21090: Angle: 298.1377
+	Line 21099: Camera position: (2.47, 2.00, 0.88)
+	Line 21108: Camera rotation: (45.00, 208.14, 0.00)
+	Line 21117: Frame_Num:575
+	Line 21126: Angle: 298.6445
+	Line 21135: Camera position: (2.48, 2.00, 0.88)
+	Line 21144: Camera rotation: (45.00, 208.65, 0.00)
+	Line 21153: Frame_Num:576
+	Line 21162: Angle: 299.1694
+	Line 21171: Camera position: (2.49, 2.00, 0.87)
+	Line 21180: Camera rotation: (45.00, 209.17, 0.00)
+	Line 21189: Frame_Num:577
+	Line 21198: Angle: 299.685
+	Line 21207: Camera position: (2.50, 2.00, 0.87)
+	Line 21216: Camera rotation: (45.00, 209.69, 0.00)
+	Line 21225: Frame_Num:578
+	Line 21234: Angle: 300.1907
+	Line 21243: Camera position: (2.50, 2.00, 0.86)
+	Line 21252: Camera rotation: (45.00, 210.19, 0.00)
+	Line 21261: Frame_Num:579
+	Line 21270: Angle: 300.6956
+	Line 21279: Camera position: (2.51, 2.00, 0.86)
+	Line 21288: Camera rotation: (45.00, 210.70, 0.00)
+	Line 21297: Frame_Num:580
+	Line 21306: Angle: 301.197
+	Line 21315: Camera position: (2.52, 2.00, 0.86)
+	Line 21324: Camera rotation: (45.00, 211.20, 0.00)
+	Line 21333: Frame_Num:581
+	Line 21342: Angle: 301.7086
+	Line 21351: Camera position: (2.53, 2.00, 0.85)
+	Line 21360: Camera rotation: (45.00, 211.71, 0.00)
+	Line 21369: Frame_Num:582
+	Line 21378: Angle: 302.2189
+	Line 21387: Camera position: (2.53, 2.00, 0.85)
+	Line 21396: Camera rotation: (45.00, 212.22, 0.00)
+	Line 21405: Frame_Num:583
+	Line 21414: Angle: 302.7249
+	Line 21423: Camera position: (2.54, 2.00, 0.84)
+	Line 21432: Camera rotation: (45.00, 212.73, 0.00)
+	Line 21441: Frame_Num:584
+	Line 21450: Angle: 303.239
+	Line 21459: Camera position: (2.55, 2.00, 0.84)
+	Line 21468: Camera rotation: (45.00, 213.24, 0.00)
+	Line 21477: Frame_Num:585
+	Line 21486: Angle: 303.7426
+	Line 21495: Camera position: (2.56, 2.00, 0.83)
+	Line 21504: Camera rotation: (45.00, 213.74, 0.00)
+	Line 21513: Frame_Num:586
+	Line 21522: Angle: 304.26
+	Line 21531: Camera position: (2.56, 2.00, 0.83)
+	Line 21540: Camera rotation: (45.00, 214.26, 0.00)
+	Line 21549: Frame_Num:587
+	Line 21558: Angle: 304.7928
+	Line 21567: Camera position: (2.57, 2.00, 0.82)
+	Line 21576: Camera rotation: (45.00, 214.79, 0.00)
+	Line 21585: Frame_Num:588
+	Line 21594: Angle: 305.3173
+	Line 21603: Camera position: (2.58, 2.00, 0.82)
+	Line 21612: Camera rotation: (45.00, 215.32, 0.00)
+	Line 21621: Frame_Num:589
+	Line 21630: Angle: 305.8581
+	Line 21639: Camera position: (2.59, 2.00, 0.81)
+	Line 21648: Camera rotation: (45.00, 215.86, 0.00)
+	Line 21657: Frame_Num:590
+	Line 21666: Angle: 306.3702
+	Line 21675: Camera position: (2.59, 2.00, 0.81)
+	Line 21684: Camera rotation: (45.00, 216.37, 0.00)
+	Line 21693: Frame_Num:591
+	Line 21702: Angle: 306.8717
+	Line 21711: Camera position: (2.60, 2.00, 0.80)
+	Line 21720: Camera rotation: (45.00, 216.87, 0.00)
+	Line 21729: Frame_Num:592
+	Line 21738: Angle: 307.3794
+	Line 21747: Camera position: (2.61, 2.00, 0.79)
+	Line 21756: Camera rotation: (45.00, 217.38, 0.00)
+	Line 21765: Frame_Num:593
+	Line 21774: Angle: 307.8825
+	Line 21783: Camera position: (2.61, 2.00, 0.79)
+	Line 21792: Camera rotation: (45.00, 217.88, 0.00)
+	Line 21801: Frame_Num:594
+	Line 21810: Angle: 308.4202
+	Line 21819: Camera position: (2.62, 2.00, 0.78)
+	Line 21828: Camera rotation: (45.00, 218.42, 0.00)
+	Line 21837: Frame_Num:595
+	Line 21846: Angle: 308.9488
+	Line 21855: Camera position: (2.63, 2.00, 0.78)
+	Line 21864: Camera rotation: (45.00, 218.95, 0.00)
+	Line 21873: Frame_Num:596
+	Line 21882: Angle: 309.4848
+	Line 21891: Camera position: (2.64, 2.00, 0.77)
+	Line 21900: Camera rotation: (45.00, 219.49, 0.00)
+	Line 21909: Frame_Num:597
+	Line 21918: Angle: 309.9886
+	Line 21927: Camera position: (2.64, 2.00, 0.77)
+	Line 21936: Camera rotation: (45.00, 219.99, 0.00)
+	Line 21945: Frame_Num:598
+	Line 21954: Angle: 310.5053
+	Line 21963: Camera position: (2.65, 2.00, 0.76)
+	Line 21972: Camera rotation: (45.00, 220.51, 0.00)
+	Line 21981: Frame_Num:599
+	Line 21990: Angle: 311.0227
+	Line 21999: Camera position: (2.66, 2.00, 0.75)
+	Line 22008: Camera rotation: (45.00, 221.02, 0.00)
+	Line 22017: Frame_Num:600
+	Line 22026: Angle: 311.524
+	Line 22035: Camera position: (2.66, 2.00, 0.75)
+	Line 22044: Camera rotation: (45.00, 221.53, 0.00)
+	Line 22053: Frame_Num:601
+	Line 22062: Angle: 312.0288
+	Line 22071: Camera position: (2.67, 2.00, 0.74)
+	Line 22080: Camera rotation: (45.00, 222.03, 0.00)
+	Line 22089: Frame_Num:602
+	Line 22098: Angle: 312.5351
+	Line 22107: Camera position: (2.68, 2.00, 0.74)
+	Line 22116: Camera rotation: (45.00, 222.54, 0.00)
+	Line 22125: Frame_Num:603
+	Line 22134: Angle: 313.0382
+	Line 22143: Camera position: (2.68, 2.00, 0.73)
+	Line 22152: Camera rotation: (45.00, 223.04, 0.00)
+	Line 22161: Frame_Num:604
+	Line 22170: Angle: 313.5553
+	Line 22179: Camera position: (2.69, 2.00, 0.72)
+	Line 22188: Camera rotation: (45.00, 223.56, 0.00)
+	Line 22197: Frame_Num:605
+	Line 22206: Angle: 314.0676
+	Line 22215: Camera position: (2.70, 2.00, 0.72)
+	Line 22224: Camera rotation: (45.00, 224.07, 0.00)
+	Line 22233: Frame_Num:606
+	Line 22242: Angle: 314.6292
+	Line 22251: Camera position: (2.70, 2.00, 0.71)
+	Line 22260: Camera rotation: (45.00, 224.63, 0.00)
+	Line 22269: Frame_Num:607
+	Line 22278: Angle: 315.1544
+	Line 22287: Camera position: (2.71, 2.00, 0.71)
+	Line 22296: Camera rotation: (45.00, 225.16, 0.00)
+	Line 22305: Frame_Num:608
+	Line 22314: Angle: 315.6867
+	Line 22323: Camera position: (2.72, 2.00, 0.70)
+	Line 22332: Camera rotation: (45.00, 225.69, 0.00)
+	Line 22341: Frame_Num:609
+	Line 22350: Angle: 316.1911
+	Line 22359: Camera position: (2.72, 2.00, 0.69)
+	Line 22368: Camera rotation: (45.00, 226.19, 0.00)
+	Line 22377: Frame_Num:610
+	Line 22386: Angle: 316.7002
+	Line 22395: Camera position: (2.73, 2.00, 0.69)
+	Line 22404: Camera rotation: (45.00, 226.70, 0.00)
+	Line 22413: Frame_Num:611
+	Line 22422: Angle: 317.2054
+	Line 22431: Camera position: (2.73, 2.00, 0.68)
+	Line 22440: Camera rotation: (45.00, 227.21, 0.00)
+	Line 22449: Frame_Num:612
+	Line 22458: Angle: 317.7091
+	Line 22467: Camera position: (2.74, 2.00, 0.67)
+	Line 22476: Camera rotation: (45.00, 227.71, 0.00)
+	Line 22485: Frame_Num:613
+	Line 22494: Angle: 318.2242
+	Line 22503: Camera position: (2.75, 2.00, 0.67)
+	Line 22512: Camera rotation: (45.00, 228.23, 0.00)
+	Line 22521: Frame_Num:614
+	Line 22530: Angle: 318.7392
+	Line 22539: Camera position: (2.75, 2.00, 0.66)
+	Line 22548: Camera rotation: (45.00, 228.74, 0.00)
+	Line 22557: Frame_Num:615
+	Line 22566: Angle: 319.2469
+	Line 22575: Camera position: (2.76, 2.00, 0.65)
+	Line 22584: Camera rotation: (45.00, 229.25, 0.00)
+	Line 22593: Frame_Num:616
+	Line 22602: Angle: 319.7551
+	Line 22611: Camera position: (2.76, 2.00, 0.65)
+	Line 22620: Camera rotation: (45.00, 229.76, 0.00)
+	Line 22629: Frame_Num:617
+	Line 22638: Angle: 320.2764
+	Line 22647: Camera position: (2.77, 2.00, 0.64)
+	Line 22656: Camera rotation: (45.00, 230.28, 0.00)
+	Line 22665: Frame_Num:618
+	Line 22674: Angle: 320.8043
+	Line 22683: Camera position: (2.77, 2.00, 0.63)
+	Line 22692: Camera rotation: (45.00, 230.81, 0.00)
+	Line 22701: Frame_Num:619
+	Line 22710: Angle: 321.3144
+	Line 22719: Camera position: (2.78, 2.00, 0.63)
+	Line 22728: Camera rotation: (45.00, 231.32, 0.00)
+	Line 22737: Frame_Num:620
+	Line 22746: Angle: 321.8174
+	Line 22755: Camera position: (2.79, 2.00, 0.62)
+	Line 22764: Camera rotation: (45.00, 231.82, 0.00)
+	Line 22773: Frame_Num:621
+	Line 22782: Angle: 322.3339
+	Line 22791: Camera position: (2.79, 2.00, 0.61)
+	Line 22800: Camera rotation: (45.00, 232.34, 0.00)
+	Line 22809: Frame_Num:622
+	Line 22818: Angle: 322.843
+	Line 22827: Camera position: (2.80, 2.00, 0.60)
+	Line 22836: Camera rotation: (45.00, 232.84, 0.00)
+	Line 22845: Frame_Num:623
+	Line 22854: Angle: 323.3516
+	Line 22863: Camera position: (2.80, 2.00, 0.60)
+	Line 22872: Camera rotation: (45.00, 233.35, 0.00)
+	Line 22881: Frame_Num:624
+	Line 22890: Angle: 323.8596
+	Line 22899: Camera position: (2.81, 2.00, 0.59)
+	Line 22908: Camera rotation: (45.00, 233.86, 0.00)
+	Line 22917: Frame_Num:625
+	Line 22926: Angle: 324.3699
+	Line 22935: Camera position: (2.81, 2.00, 0.58)
+	Line 22944: Camera rotation: (45.00, 234.37, 0.00)
+	Line 22953: Frame_Num:626
+	Line 22962: Angle: 324.8883
+	Line 22971: Camera position: (2.82, 2.00, 0.58)
+	Line 22980: Camera rotation: (45.00, 234.89, 0.00)
+	Line 22989: Frame_Num:627
+	Line 22998: Angle: 325.4059
+	Line 23007: Camera position: (2.82, 2.00, 0.57)
+	Line 23016: Camera rotation: (45.00, 235.41, 0.00)
+	Line 23025: Frame_Num:628
+	Line 23034: Angle: 325.9226
+	Line 23043: Camera position: (2.83, 2.00, 0.56)
+	Line 23052: Camera rotation: (45.00, 235.92, 0.00)
+	Line 23061: Frame_Num:629
+	Line 23070: Angle: 326.445
+	Line 23079: Camera position: (2.83, 2.00, 0.55)
+	Line 23088: Camera rotation: (45.00, 236.45, 0.00)
+	Line 23097: Frame_Num:630
+	Line 23106: Angle: 326.9502
+	Line 23115: Camera position: (2.84, 2.00, 0.55)
+	Line 23124: Camera rotation: (45.00, 236.95, 0.00)
+	Line 23133: Frame_Num:631
+	Line 23142: Angle: 327.4578
+	Line 23151: Camera position: (2.84, 2.00, 0.54)
+	Line 23160: Camera rotation: (45.00, 237.46, 0.00)
+	Line 23169: Frame_Num:632
+	Line 23178: Angle: 327.9679
+	Line 23187: Camera position: (2.85, 2.00, 0.53)
+	Line 23196: Camera rotation: (45.00, 237.97, 0.00)
+	Line 23205: Frame_Num:633
+	Line 23214: Angle: 328.4775
+	Line 23223: Camera position: (2.85, 2.00, 0.52)
+	Line 23232: Camera rotation: (45.00, 238.48, 0.00)
+	Line 23241: Frame_Num:634
+	Line 23250: Angle: 328.9886
+	Line 23259: Camera position: (2.86, 2.00, 0.52)
+	Line 23268: Camera rotation: (45.00, 238.99, 0.00)
+	Line 23277: Frame_Num:635
+	Line 23286: Angle: 329.4898
+	Line 23295: Camera position: (2.86, 2.00, 0.51)
+	Line 23304: Camera rotation: (45.00, 239.49, 0.00)
+	Line 23313: Frame_Num:636
+	Line 23322: Angle: 329.9969
+	Line 23331: Camera position: (2.87, 2.00, 0.50)
+	Line 23340: Camera rotation: (45.00, 240.00, 0.00)
+	Line 23349: Frame_Num:637
+	Line 23358: Angle: 330.499
+	Line 23367: Camera position: (2.87, 2.00, 0.49)
+	Line 23376: Camera rotation: (45.00, 240.50, 0.00)
+	Line 23385: Frame_Num:638
+	Line 23394: Angle: 331.0137
+	Line 23403: Camera position: (2.87, 2.00, 0.48)
+	Line 23412: Camera rotation: (45.00, 241.02, 0.00)
+	Line 23421: Frame_Num:639
+	Line 23430: Angle: 331.5203
+	Line 23439: Camera position: (2.88, 2.00, 0.48)
+	Line 23448: Camera rotation: (45.00, 241.52, 0.00)
+	Line 23457: Frame_Num:640
+	Line 23466: Angle: 332.0354
+	Line 23475: Camera position: (2.88, 2.00, 0.47)
+	Line 23484: Camera rotation: (45.00, 242.04, 0.00)
+	Line 23493: Frame_Num:641
+	Line 23502: Angle: 332.542
+	Line 23511: Camera position: (2.89, 2.00, 0.46)
+	Line 23520: Camera rotation: (45.00, 242.54, 0.00)
+	Line 23529: Frame_Num:642
+	Line 23538: Angle: 333.0471
+	Line 23547: Camera position: (2.89, 2.00, 0.45)
+	Line 23556: Camera rotation: (45.00, 243.05, 0.00)
+	Line 23565: Frame_Num:643
+	Line 23574: Angle: 333.5903
+	Line 23583: Camera position: (2.90, 2.00, 0.44)
+	Line 23592: Camera rotation: (45.00, 243.59, 0.00)
+	Line 23601: Frame_Num:644
+	Line 23610: Angle: 334.1042
+	Line 23619: Camera position: (2.90, 2.00, 0.44)
+	Line 23628: Camera rotation: (45.00, 244.11, 0.00)
+	Line 23637: Frame_Num:645
+	Line 23646: Angle: 334.6043
+	Line 23655: Camera position: (2.90, 2.00, 0.43)
+	Line 23664: Camera rotation: (45.00, 244.61, 0.00)
+	Line 23673: Frame_Num:646
+	Line 23682: Angle: 335.1069
+	Line 23691: Camera position: (2.91, 2.00, 0.42)
+	Line 23700: Camera rotation: (45.00, 245.11, 0.00)
+	Line 23709: Frame_Num:647
+	Line 23718: Angle: 335.6199
+	Line 23727: Camera position: (2.91, 2.00, 0.41)
+	Line 23736: Camera rotation: (45.00, 245.62, 0.00)
+	Line 23745: Frame_Num:648
+	Line 23754: Angle: 336.1376
+	Line 23763: Camera position: (2.91, 2.00, 0.40)
+	Line 23772: Camera rotation: (45.00, 246.14, 0.00)
+	Line 23781: Frame_Num:649
+	Line 23790: Angle: 336.6441
+	Line 23799: Camera position: (2.92, 2.00, 0.40)
+	Line 23808: Camera rotation: (45.00, 246.65, 0.00)
+	Line 23817: Frame_Num:650
+	Line 23826: Angle: 337.1692
+	Line 23835: Camera position: (2.92, 2.00, 0.39)
+	Line 23844: Camera rotation: (45.00, 247.17, 0.00)
+	Line 23853: Frame_Num:651
+	Line 23862: Angle: 337.6735
+	Line 23871: Camera position: (2.93, 2.00, 0.38)
+	Line 23880: Camera rotation: (45.00, 247.68, 0.00)
+	Line 23889: Frame_Num:652
+	Line 23898: Angle: 338.1902
+	Line 23907: Camera position: (2.93, 2.00, 0.37)
+	Line 23916: Camera rotation: (45.00, 248.19, 0.00)
+	Line 23925: Frame_Num:653
+	Line 23934: Angle: 338.7058
+	Line 23943: Camera position: (2.93, 2.00, 0.36)
+	Line 23952: Camera rotation: (45.00, 248.71, 0.00)
+	Line 23961: Frame_Num:654
+	Line 23970: Angle: 339.2318
+	Line 23979: Camera position: (2.94, 2.00, 0.35)
+	Line 23988: Camera rotation: (45.00, 249.23, 0.00)
+	Line 23997: Frame_Num:655
+	Line 24006: Angle: 339.7376
+	Line 24015: Camera position: (2.94, 2.00, 0.35)
+	Line 24024: Camera rotation: (45.00, 249.74, 0.00)
+	Line 24033: Frame_Num:656
+	Line 24042: Angle: 340.267
+	Line 24051: Camera position: (2.94, 2.00, 0.34)
+	Line 24060: Camera rotation: (45.00, 250.27, 0.00)
+	Line 24069: Frame_Num:657
+	Line 24078: Angle: 340.7821
+	Line 24087: Camera position: (2.94, 2.00, 0.33)
+	Line 24096: Camera rotation: (45.00, 250.78, 0.00)
+	Line 24105: Frame_Num:658
+	Line 24114: Angle: 341.3159
+	Line 24123: Camera position: (2.95, 2.00, 0.32)
+	Line 24132: Camera rotation: (45.00, 251.32, 0.00)
+	Line 24141: Frame_Num:659
+	Line 24150: Angle: 341.8485
+	Line 24159: Camera position: (2.95, 2.00, 0.31)
+	Line 24168: Camera rotation: (45.00, 251.85, 0.00)
+	Line 24177: Frame_Num:660
+	Line 24186: Angle: 342.3643
+	Line 24195: Camera position: (2.95, 2.00, 0.30)
+	Line 24204: Camera rotation: (45.00, 252.37, 0.00)
+	Line 24213: Frame_Num:661
+	Line 24222: Angle: 342.874
+	Line 24231: Camera position: (2.96, 2.00, 0.29)
+	Line 24240: Camera rotation: (45.00, 252.88, 0.00)
+	Line 24249: Frame_Num:662
+	Line 24258: Angle: 343.3809
+	Line 24267: Camera position: (2.96, 2.00, 0.29)
+	Line 24276: Camera rotation: (45.00, 253.38, 0.00)
+	Line 24285: Frame_Num:663
+	Line 24294: Angle: 343.8881
+	Line 24303: Camera position: (2.96, 2.00, 0.28)
+	Line 24312: Camera rotation: (45.00, 253.89, 0.00)
+	Line 24321: Frame_Num:664
+	Line 24330: Angle: 344.4143
+	Line 24339: Camera position: (2.96, 2.00, 0.27)
+	Line 24348: Camera rotation: (45.00, 254.42, 0.00)
+	Line 24357: Frame_Num:665
+	Line 24366: Angle: 344.9223
+	Line 24375: Camera position: (2.97, 2.00, 0.26)
+	Line 24384: Camera rotation: (45.00, 254.92, 0.00)
+	Line 24393: Frame_Num:666
+	Line 24402: Angle: 345.4501
+	Line 24411: Camera position: (2.97, 2.00, 0.25)
+	Line 24420: Camera rotation: (45.00, 255.45, 0.00)
+	Line 24429: Frame_Num:667
+	Line 24438: Angle: 345.97
+	Line 24447: Camera position: (2.97, 2.00, 0.24)
+	Line 24456: Camera rotation: (45.00, 255.97, 0.00)
+	Line 24465: Frame_Num:668
+	Line 24474: Angle: 346.4801
+	Line 24483: Camera position: (2.97, 2.00, 0.23)
+	Line 24492: Camera rotation: (45.00, 256.48, 0.00)
+	Line 24501: Frame_Num:669
+	Line 24510: Angle: 346.9932
+	Line 24519: Camera position: (2.97, 2.00, 0.23)
+	Line 24528: Camera rotation: (45.00, 256.99, 0.00)
+	Line 24537: Frame_Num:670
+	Line 24546: Angle: 347.5034
+	Line 24555: Camera position: (2.98, 2.00, 0.22)
+	Line 24564: Camera rotation: (45.00, 257.50, 0.00)
+	Line 24573: Frame_Num:671
+	Line 24582: Angle: 348.0062
+	Line 24591: Camera position: (2.98, 2.00, 0.21)
+	Line 24600: Camera rotation: (45.00, 258.01, 0.00)
+	Line 24609: Frame_Num:672
+	Line 24618: Angle: 348.5127
+	Line 24627: Camera position: (2.98, 2.00, 0.20)
+	Line 24636: Camera rotation: (45.00, 258.51, 0.00)
+	Line 24645: Frame_Num:673
+	Line 24654: Angle: 349.0223
+	Line 24663: Camera position: (2.98, 2.00, 0.19)
+	Line 24672: Camera rotation: (45.00, 259.02, 0.00)
+	Line 24681: Frame_Num:674
+	Line 24690: Angle: 349.5564
+	Line 24699: Camera position: (2.98, 2.00, 0.18)
+	Line 24708: Camera rotation: (45.00, 259.56, 0.00)
+	Line 24717: Frame_Num:675
+	Line 24726: Angle: 350.0574
+	Line 24735: Camera position: (2.98, 2.00, 0.17)
+	Line 24744: Camera rotation: (45.00, 260.06, 0.00)
+	Line 24753: Frame_Num:676
+	Line 24762: Angle: 350.5672
+	Line 24771: Camera position: (2.99, 2.00, 0.16)
+	Line 24780: Camera rotation: (45.00, 260.57, 0.00)
+	Line 24789: Frame_Num:677
+	Line 24798: Angle: 351.102
+	Line 24807: Camera position: (2.99, 2.00, 0.15)
+	Line 24816: Camera rotation: (45.00, 261.10, 0.00)
+	Line 24825: Frame_Num:678
+	Line 24834: Angle: 351.6309
+	Line 24843: Camera position: (2.99, 2.00, 0.15)
+	Line 24852: Camera rotation: (45.00, 261.63, 0.00)
+	Line 24861: Frame_Num:679
+	Line 24870: Angle: 352.1621
+	Line 24879: Camera position: (2.99, 2.00, 0.14)
+	Line 24888: Camera rotation: (45.00, 262.16, 0.00)
+	Line 24897: Frame_Num:680
+	Line 24906: Angle: 352.6689
+	Line 24915: Camera position: (2.99, 2.00, 0.13)
+	Line 24924: Camera rotation: (45.00, 262.67, 0.00)
+	Line 24933: Frame_Num:681
+	Line 24942: Angle: 353.1807
+	Line 24951: Camera position: (2.99, 2.00, 0.12)
+	Line 24960: Camera rotation: (45.00, 263.18, 0.00)
+	Line 24969: Frame_Num:682
+	Line 24978: Angle: 353.6945
+	Line 24987: Camera position: (2.99, 2.00, 0.11)
+	Line 24996: Camera rotation: (45.00, 263.70, 0.00)
+	Line 25005: Frame_Num:683
+	Line 25014: Angle: 354.1971
+	Line 25023: Camera position: (2.99, 2.00, 0.10)
+	Line 25032: Camera rotation: (45.00, 264.20, 0.00)
+	Line 25041: Frame_Num:684
+	Line 25050: Angle: 354.7023
+	Line 25059: Camera position: (3.00, 2.00, 0.09)
+	Line 25068: Camera rotation: (45.00, 264.70, 0.00)
+	Line 25077: Frame_Num:685
+	Line 25086: Angle: 355.2099
+	Line 25095: Camera position: (3.00, 2.00, 0.08)
+	Line 25104: Camera rotation: (45.00, 265.21, 0.00)
+	Line 25113: Frame_Num:686
+	Line 25122: Angle: 355.7139
+	Line 25131: Camera position: (3.00, 2.00, 0.07)
+	Line 25140: Camera rotation: (45.00, 265.72, 0.00)
+	Line 25149: Frame_Num:687
+	Line 25158: Angle: 356.2184
+	Line 25167: Camera position: (3.00, 2.00, 0.07)
+	Line 25176: Camera rotation: (45.00, 266.22, 0.00)
+	Line 25185: Frame_Num:688
+	Line 25194: Angle: 356.7578
+	Line 25203: Camera position: (3.00, 2.00, 0.06)
+	Line 25212: Camera rotation: (45.00, 266.76, 0.00)
+	Line 25221: Frame_Num:689
+	Line 25230: Angle: 357.2913
+	Line 25239: Camera position: (3.00, 2.00, 0.05)
+	Line 25248: Camera rotation: (45.00, 267.29, 0.00)
+	Line 25257: Frame_Num:690
+	Line 25266: Angle: 357.7961
+	Line 25275: Camera position: (3.00, 2.00, 0.04)
+	Line 25284: Camera rotation: (45.00, 267.80, 0.00)
